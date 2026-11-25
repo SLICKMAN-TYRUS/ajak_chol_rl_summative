@@ -22,6 +22,29 @@ WEB_DIR = Path(__file__).resolve().parent / "web"
 IPC_COLORS = {1: "#cdfacd", 2: "#fae61e", 3: "#e67800", 4: "#c80000", 5: "#640000"}
 
 
+def _open_browser(url: str):
+    """Open the viewer quietly; on WSL use the Windows default browser."""
+    import os
+    import platform
+    import subprocess
+    try:
+        if "microsoft" in platform.release().lower():
+            subprocess.Popen(["cmd.exe", "/c", "start", "", url], cwd="/mnt/c",
+                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            return
+        devnull = os.open(os.devnull, os.O_WRONLY)
+        saved = os.dup(2)
+        os.dup2(devnull, 2)
+        try:
+            webbrowser.open(url)
+        finally:
+            os.dup2(saved, 2)
+            os.close(devnull)
+            os.close(saved)
+    except Exception:  # noqa: BLE001
+        pass
+
+
 class _State:
     def __init__(self):
         self.lock = threading.Lock()
@@ -89,10 +112,7 @@ class WebViewer:
         url = f"http://127.0.0.1:{port}/"
         print(f"\n[viewer] 3D simulation running at {url}  (open it in your browser)\n")
         if open_browser:
-            try:
-                webbrowser.open(url)
-            except Exception:  # noqa: BLE001
-                pass
+            _open_browser(url)
 
     def set_policy(self, fn, meta: dict | None = None):
         self.shared.policy_fn = fn
