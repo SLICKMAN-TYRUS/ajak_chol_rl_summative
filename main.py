@@ -68,6 +68,7 @@ def main():
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--serve", action="store_true", help="serve the policy API only")
     ap.add_argument("--compare", action="store_true", help="evaluate all best models on unseen seeds")
+    ap.add_argument("--wait", action="store_true", help="wait for Enter before the agent starts")
     args = ap.parse_args()
 
     from training.common import full_eval, load_policy
@@ -97,8 +98,11 @@ def main():
     if not args.no_render:
         env.reset(seed=args.seed)              # starts the viewer
         env._viewer.set_policy(info_fn, meta=dict(agent=f"{algo.upper()} ({path.stem})"))
-        print("[main] giving the browser 4 s to connect...")
-        time.sleep(4)
+        if args.wait:
+            input("[main] viewer ready - press Enter to start the agent... ")
+        else:
+            print("[main] giving the browser 4 s to connect...")
+            time.sleep(4)
     returns = []
     for k in range(args.episodes):
         total, _ = run_episode(env, act_fn, info_fn, seed=args.seed + k)
