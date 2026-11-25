@@ -1,0 +1,146 @@
+{
+  "dqn": {
+    "unseen": {
+      "mean_reward": -5.50007630905347,
+      "std_reward": 5.604564952973726,
+      "coverage": 0.8943265937508305,
+      "famine_rate": 0.13,
+      "mean_cost": 38.24,
+      "airdrops": 6.35,
+      "failed_convoys": 0.03
+    },
+    "hard": {
+      "mean_reward": -21.48339910066903,
+      "std_reward": 5.925414678158457,
+      "coverage": 0.7786036956562663,
+      "famine_rate": 0.88,
+      "mean_cost": 29.84,
+      "airdrops": 3.56,
+      "failed_convoys": 0.5
+    },
+    "converge_ep": 6826.0
+  },
+  "reinforce": {
+    "unseen": {
+      "mean_reward": -12.637732879039666,
+      "std_reward": 8.45842563624848,
+      "coverage": 0.8327194404667378,
+      "famine_rate": 0.36,
+      "mean_cost": 34.66,
+      "airdrops": 6.27,
+      "failed_convoys": 2.22
+    },
+    "hard": {
+      "mean_reward": -25.892084827634026,
+      "std_reward": 3.258908799792427,
+      "coverage": 0.6773883245131546,
+      "famine_rate": 0.99,
+      "mean_cost": 28.065,
+      "airdrops": 5.46,
+      "failed_convoys": 1.54
+    },
+    "converge_ep": 8712.0
+  },
+  "ppo": {
+    "unseen": {
+      "mean_reward": -5.727757379590844,
+      "std_reward": 5.605858361569609,
+      "coverage": 0.8859748953041996,
+      "famine_rate": 0.09,
+      "mean_cost": 37.96,
+      "airdrops": 5.1,
+      "failed_convoys": 0.09
+    },
+    "hard": {
+      "mean_reward": -19.229990023795292,
+      "std_reward": 5.925437808550387,
+      "coverage": 0.7664548254474474,
+      "famine_rate": 0.77,
+      "mean_cost": 32.955,
+      "airdrops": 4.54,
+      "failed_convoys": 0.04
+    },
+    "converge_ep": 3994.0
+  },
+  "a2c": {
+    "unseen": {
+      "mean_reward": -9.251576203565412,
+      "std_reward": 7.943007165836366,
+      "coverage": 0.8738864476666549,
+      "famine_rate": 0.23,
+      "mean_cost": 35.935,
+      "airdrops": 5.22,
+      "failed_convoys": 2.33
+    },
+    "hard": {
+      "mean_reward": -22.116127315988184,
+      "std_reward": 5.722372222882641,
+      "coverage": 0.7394006474898144,
+      "famine_rate": 0.87,
+      "mean_cost": 31.15,
+      "airdrops": 4.89,
+      "failed_convoys": 0.83
+    },
+    "converge_ep": 6837.0
+  },
+  "expert": {
+    "unseen": {
+      "mean_reward": -7.861430465860799,
+      "std_reward": 6.9197088007806915,
+      "coverage": 0.8278465387590184,
+      "famine_rate": 0.18,
+      "mean_cost": 32.715,
+      "airdrops": 3.27,
+      "failed_convoys": 0.0
+    },
+    "hard": {
+      "mean_reward": -20.295322979607388,
+      "std_reward": 7.196754286001762,
+      "coverage": 0.7132916117483699,
+      "famine_rate": 0.75,
+      "mean_cost": 29.235,
+      "airdrops": 3.4,
+      "failed_convoys": 0.0
+    }
+  },
+  "greedy": {
+    "unseen": {
+      "mean_reward": -14.956523033226794,
+      "std_reward": 7.623749904474267,
+      "coverage": 0.7896104001872736,
+      "famine_rate": 0.57,
+      "mean_cost": 26.69,
+      "airdrops": 2.33,
+      "failed_convoys": 0.0
+    },
+    "hard": {
+      "mean_reward": -24.88902707185804,
+      "std_reward": 2.981452321657192,
+      "coverage": 0.7273652999811461,
+      "famine_rate": 0.99,
+      "mean_cost": 20.845,
+      "airdrops": 1.56,
+      "failed_convoys": 0.0
+    }
+  },
+  "random": {
+    "unseen": {
+      "mean_reward": -29.658621020080826,
+      "std_reward": 1.7956870839764685,
+      "coverage": 0.6334588502498881,
+      "famine_rate": 1.0,
+      "mean_cost": 16.345,
+      "airdrops": 3.99,
+      "failed_convoys": 0.46
+    },
+    "hard": {
+      "mean_reward": -31.563616765041555,
+      "std_reward": 1.3532309164569691,
+      "coverage": 0.5988072622051915,
+      "famine_rate": 1.0,
+      "mean_cost": 10.865,
+      "airdrops": 2.46,
+      "failed_convoys": 0.42
+    }
+  }
+}

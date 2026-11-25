@@ -1,0 +1,21 @@
+[project]
+name = "ajak-chol-rl-summative"
+version = "1.0.0"
+description = "RL for humanitarian food-aid pre-positioning in Jonglei, South Sudan (DQN, REINFORCE, PPO, A2C with TorchRL)"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "torch>=2.5",
+    "torchrl>=0.15,<0.16",
+    "tensordict>=0.15,<0.16",
+    "gymnasium>=1.0",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "matplotlib>=3.8",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.uv]
+package = false

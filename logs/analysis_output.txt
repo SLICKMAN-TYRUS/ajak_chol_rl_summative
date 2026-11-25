@@ -1,0 +1,122 @@
+warning: The `UV_NATIVE_TLS` environment variable is deprecated and will be removed in a future release. Use `UV_SYSTEM_CERTS` instead.
+{
+  "dqn": {
+    "run": "dqn_02_lr_low",
+    "path": "models/dqn/dqn_dqn_02_lr_low.pt",
+    "eval_reward": -5.50007630905347,
+    "seed_rewards": [
+      -5.50007630905347,
+      -8.603344138038656,
+      -7.454522392925937
+    ],
+    "seed_mean": -7.1859809466726885,
+    "seed_std": 1.2810552124116137,
+    "seed_hard_mean": -21.824004877942354,
+    "seed_famine_mean": 0.23666666666666666
+  },
+  "reinforce": {
+    "run": "rf_10_entropy_005",
+    "path": "models/pg/reinforce_rf_10_entropy_005.pt",
+    "eval_reward": -12.637732879039666,
+    "seed_rewards": [
+      -12.637732879039666,
+      -12.729900323877064,
+      -13.162527556787387
+    ],
+    "seed_mean": -12.843386919901372,
+    "seed_std": 0.22878194721316616,
+    "seed_hard_mean": -25.308539426710695,
+    "seed_famine_mean": 0.36000000000000004
+  },
+  "ppo": {
+    "run": "ppo_07_entropy_005",
+    "path": "models/pg/ppo_ppo_07_entropy_005.pt",
+    "eval_reward": -5.727757379590844,
+    "seed_rewards": [
+      -5.727757379590844,
+      -4.698631575611472,
+      -5.986648846396129
+    ],
+    "seed_mean": -5.4710126005328155,
+    "seed_std": 0.556288614324169,
+    "seed_hard_mean": -19.441610593047766,
+    "seed_famine_mean": 0.08
+  },
+  "a2c": {
+    "run": "a2c_07_entropy_005",
+    "path": "models/pg/a2c_a2c_07_entropy_005.pt",
+    "eval_reward": -9.251576203565412,
+    "seed_rewards": [
+      -9.251576203565412,
+      -9.591667938354112,
+      -10.567165224920206
+    ],
+    "seed_mean": -9.803469788946577,
+    "seed_std": 0.557577280869723,
+    "seed_hard_mean": -22.76472517084551,
+    "seed_famine_mean": 0.27
+  },
+  "overall": "ppo"
+}
+
+DQN
+                     run  eval_reward  famine_rate  hard_reward  converge_ep  converge_steps
+        dqn_01_baseline       -7.286         0.22      -24.055         5074         81406.0
+          dqn_02_lr_low       -5.500         0.13      -21.483         6826        110604.0
+         dqn_03_lr_high      -15.790         0.61      -25.795         5817         84489.6
+       dqn_04_gamma_090       -6.395         0.06      -23.554         5348         87464.0
+      dqn_05_gamma_0995       -6.729         0.20      -21.426         5203         86632.0
+    dqn_06_small_buffer      -15.268         0.48      -25.101         5045         75400.0
+         dqn_07_batch32      -17.041         0.76      -25.494         5660         85150.0
+  dqn_08_fast_eps_decay       -5.645         0.08      -23.797         4292         75608.0
+  dqn_09_high_eps_floor       -9.030         0.24      -23.189         5588         91026.0
+     dqn_10_soft_target       -6.601         0.14      -20.787         5027         87568.0
+      dqn_11_double_dqn       -6.161         0.13      -22.922         5590         94770.0
+dqn_12_double_soft_wide       -6.003         0.15      -23.212         4993         89440.0
+
+REINFORCE
+                 run  eval_reward  famine_rate  hard_reward  converge_ep  converge_steps
+     rf_01_baseline      -17.148         0.57      -26.355       9082.0      139901.667
+       rf_02_lr_low      -23.853         1.00      -27.101      11902.0      144355.152
+      rf_03_lr_high      -21.564         0.95      -25.492       4191.0       58100.000
+  rf_04_no_baseline      -31.251         1.00      -32.234          NaN             NaN
+rf_05_mean_baseline      -20.103         0.90      -25.647      10723.0      158912.000
+    rf_06_gamma_090      -24.449         0.95      -28.484       9991.0      156271.304
+  rf_07_small_batch      -16.583         0.60      -26.076       6617.0      116298.000
+  rf_08_large_batch      -21.114         0.92      -26.922       9637.0      127821.887
+  rf_09_entropy_001      -13.824         0.51      -25.329       9235.0      139450.435
+  rf_10_entropy_005      -12.638         0.36      -25.892       8712.0      129456.364
+     rf_11_wide_net      -13.940         0.48      -25.492       6103.0       98732.174
+      rf_12_no_norm      -17.384         0.65      -25.944       8495.0      114980.000
+
+PPO
+                  run  eval_reward  famine_rate  hard_reward  converge_ep  converge_steps
+     ppo_01_baseline       -6.662         0.15      -20.500         4539       83616.000
+       ppo_02_lr_low      -11.057         0.33      -23.820         7938      137256.889
+      ppo_03_lr_high       -7.951         0.17      -21.546         2547       46800.000
+      ppo_04_clip_01       -6.594         0.16      -20.268         4100       71263.636
+      ppo_05_clip_03       -7.994         0.18      -21.863         4807       88859.535
+   ppo_06_no_entropy       -6.405         0.13      -20.257         3626       64905.455
+  ppo_07_entropy_005       -5.728         0.09      -19.230         3994       70521.905
+   ppo_08_lambda_080       -6.638         0.13      -21.180         5272       98394.146
+    ppo_09_epochs_10       -7.801         0.19      -19.841         2316       42567.442
+ppo_10_small_rollout       -6.958         0.16      -21.394         2746       51208.696
+    ppo_11_gamma_090       -6.043         0.11      -21.418         5651      119041.951
+ppo_12_critic_coef_1       -8.130         0.20      -21.600         3890       69828.571
+
+A2C
+                  run  eval_reward  famine_rate  hard_reward  converge_ep  converge_steps
+     a2c_01_baseline      -12.684         0.50      -24.243       6805.0      108576.000
+       a2c_02_lr_low      -19.918         0.90      -24.964      11627.0      149060.364
+      a2c_03_lr_high      -20.968         0.91      -27.008       4441.0       67507.556
+          a2c_04_td0      -27.702         1.00      -30.484          NaN             NaN
+      a2c_05_gae_095      -11.597         0.35      -23.129       8114.0      134420.000
+   a2c_06_no_entropy      -16.570         0.70      -25.716       8013.0      130046.222
+  a2c_07_entropy_005       -9.252         0.23      -22.116       6837.0       95662.667
+a2c_08_critic_coef_1      -13.057         0.44      -23.301       6400.0       98176.000
+   a2c_09_rollout_52      -11.858         0.34      -23.180       4601.0       75166.000
+  a2c_10_rollout_520      -12.624         0.43      -24.129       9690.0      138940.000
+     a2c_11_norm_adv      -15.485         0.64      -24.284       6665.0      109564.000
+    a2c_12_gamma_090      -15.112         0.61      -25.056       7803.0      135223.111
+
+baselines unseen: {'random': -29.66, 'greedy': -14.96, 'expert': -7.86}

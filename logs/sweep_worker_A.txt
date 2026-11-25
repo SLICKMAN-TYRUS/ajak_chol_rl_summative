@@ -1,0 +1,659 @@
+[DQN dqn_01_baseline] frames   5304 | episodes   478 | avg return(50)  -29.54 | loss 0.1234 | eps 0.939
+[DQN dqn_01_baseline] frames  10504 | episodes   958 | avg return(50)  -29.41 | loss 0.0924 | eps 0.880
+[DQN dqn_01_baseline] frames  15704 | episodes  1418 | avg return(50)  -29.59 | loss 0.0762 | eps 0.820
+[DQN dqn_01_baseline] frames  20904 | episodes  1886 | avg return(50)  -29.18 | loss 0.0467 | eps 0.761
+[DQN dqn_01_baseline] frames  26104 | episodes  2321 | avg return(50)  -28.98 | loss 0.0365 | eps 0.701
+[DQN dqn_01_baseline] frames  31304 | episodes  2722 | avg return(50)  -27.79 | loss 0.0223 | eps 0.642
+[DQN dqn_01_baseline] frames  36504 | episodes  3060 | avg return(50)  -26.31 | loss 0.0216 | eps 0.582
+[DQN dqn_01_baseline] frames  41704 | episodes  3353 | avg return(50)  -26.52 | loss 0.0155 | eps 0.523
+[DQN dqn_01_baseline] frames  46904 | episodes  3617 | avg return(50)  -24.19 | loss 0.0165 | eps 0.463
+[DQN dqn_01_baseline] frames  52104 | episodes  3863 | avg return(50)  -24.36 | loss 0.0135 | eps 0.404
+[DQN dqn_01_baseline] frames  57304 | episodes  4090 | avg return(50)  -21.04 | loss 0.0133 | eps 0.345
+[DQN dqn_01_baseline] frames  62504 | episodes  4312 | avg return(50)  -18.72 | loss 0.0129 | eps 0.285
+[DQN dqn_01_baseline] frames  67704 | episodes  4528 | avg return(50)  -18.15 | loss 0.0137 | eps 0.226
+[DQN dqn_01_baseline] frames  72904 | episodes  4738 | avg return(50)  -15.96 | loss 0.0110 | eps 0.167
+[DQN dqn_01_baseline] frames  78104 | episodes  4944 | avg return(50)  -12.05 | loss 0.0092 | eps 0.107
+[DQN dqn_01_baseline] frames  83304 | episodes  5149 | avg return(50)  -10.75 | loss 0.0101 | eps 0.050
+[DQN dqn_01_baseline] frames  88504 | episodes  5353 | avg return(50)  -10.96 | loss 0.0117 | eps 0.050
+[DQN dqn_01_baseline] frames  93704 | episodes  5556 | avg return(50)   -8.17 | loss 0.0063 | eps 0.050
+[DQN dqn_01_baseline] frames  98904 | episodes  5758 | avg return(50)   -8.22 | loss 0.0054 | eps 0.050
+[DQN dqn_01_baseline] frames 104104 | episodes  5963 | avg return(50)   -8.45 | loss 0.0050 | eps 0.050
+[DQN dqn_01_baseline] frames 109304 | episodes  6167 | avg return(50)   -6.17 | loss 0.0067 | eps 0.050
+[DQN dqn_01_baseline] frames 114504 | episodes  6372 | avg return(50)  -10.07 | loss 0.0058 | eps 0.050
+[DQN dqn_01_baseline] frames 119704 | episodes  6576 | avg return(50)   -8.02 | loss 0.0053 | eps 0.050
+[DQN dqn_01_baseline] frames 124904 | episodes  6780 | avg return(50)   -8.22 | loss 0.0056 | eps 0.050
+[DQN dqn_01_baseline] frames 130104 | episodes  6984 | avg return(50)   -8.34 | loss 0.0052 | eps 0.050
+[DQN dqn_01_baseline] frames 135304 | episodes  7187 | avg return(50)   -6.54 | loss 0.0063 | eps 0.050
+[DQN dqn_01_baseline] frames 140504 | episodes  7391 | avg return(50)   -6.89 | loss 0.0070 | eps 0.050
+[DQN dqn_01_baseline] frames 145704 | episodes  7594 | avg return(50)   -8.57 | loss 0.0055 | eps 0.050
+[DQN dqn_01_baseline] frames 150904 | episodes  7799 | avg return(50)   -8.68 | loss 0.0057 | eps 0.050
+[DQN dqn_01_baseline] frames 156104 | episodes  8007 | avg return(50)   -9.71 | loss 0.0062 | eps 0.050
+[DQN dqn_01_baseline] frames 161304 | episodes  8215 | avg return(50)   -8.66 | loss 0.0067 | eps 0.050
+[DQN dqn_01_baseline] EVAL unseen: -7.29 | coverage 0.873 | famine 0.22
+[DQN dqn_02_lr_low] frames   5304 | episodes   469 | avg return(50)  -29.60 | loss 0.1561 | eps 0.939
+[DQN dqn_02_lr_low] frames  10504 | episodes   944 | avg return(50)  -29.56 | loss 0.1259 | eps 0.880
+[DQN dqn_02_lr_low] frames  15704 | episodes  1409 | avg return(50)  -29.38 | loss 0.0842 | eps 0.820
+[DQN dqn_02_lr_low] frames  20904 | episodes  1858 | avg return(50)  -28.57 | loss 0.0865 | eps 0.761
+[DQN dqn_02_lr_low] frames  26104 | episodes  2297 | avg return(50)  -29.25 | loss 0.0533 | eps 0.701
+[DQN dqn_02_lr_low] frames  31304 | episodes  2725 | avg return(50)  -28.31 | loss 0.0337 | eps 0.642
+[DQN dqn_02_lr_low] frames  36504 | episodes  3137 | avg return(50)  -27.42 | loss 0.0236 | eps 0.582
+[DQN dqn_02_lr_low] frames  41704 | episodes  3522 | avg return(50)  -27.69 | loss 0.0218 | eps 0.523
+[DQN dqn_02_lr_low] frames  46904 | episodes  3887 | avg return(50)  -26.78 | loss 0.0166 | eps 0.463
+[DQN dqn_02_lr_low] frames  52104 | episodes  4217 | avg return(50)  -25.91 | loss 0.0153 | eps 0.404
+[DQN dqn_02_lr_low] frames  57304 | episodes  4530 | avg return(50)  -24.66 | loss 0.0125 | eps 0.345
+[DQN dqn_02_lr_low] frames  62504 | episodes  4801 | avg return(50)  -24.10 | loss 0.0133 | eps 0.285
+[DQN dqn_02_lr_low] frames  67704 | episodes  5055 | avg return(50)  -22.21 | loss 0.0106 | eps 0.226
+[DQN dqn_02_lr_low] frames  72904 | episodes  5283 | avg return(50)  -17.81 | loss 0.0094 | eps 0.167
+[DQN dqn_02_lr_low] frames  78104 | episodes  5498 | avg return(50)  -14.40 | loss 0.0081 | eps 0.107
+[DQN dqn_02_lr_low] frames  83304 | episodes  5717 | avg return(50)  -16.18 | loss 0.0073 | eps 0.050
+[DQN dqn_02_lr_low] frames  88504 | episodes  5930 | avg return(50)  -14.59 | loss 0.0067 | eps 0.050
+[DQN dqn_02_lr_low] frames  93704 | episodes  6142 | avg return(50)  -13.90 | loss 0.0075 | eps 0.050
+[DQN dqn_02_lr_low] frames  98904 | episodes  6355 | avg return(50)  -13.27 | loss 0.0053 | eps 0.050
+[DQN dqn_02_lr_low] frames 104104 | episodes  6566 | avg return(50)  -13.00 | loss 0.0060 | eps 0.050
+[DQN dqn_02_lr_low] frames 109304 | episodes  6774 | avg return(50)  -11.19 | loss 0.0043 | eps 0.050
+[DQN dqn_02_lr_low] frames 114504 | episodes  6982 | avg return(50)   -9.97 | loss 0.0043 | eps 0.050
+[DQN dqn_02_lr_low] frames 119704 | episodes  7189 | avg return(50)   -9.33 | loss 0.0046 | eps 0.050
+[DQN dqn_02_lr_low] frames 124904 | episodes  7398 | avg return(50)   -9.06 | loss 0.0035 | eps 0.050
+[DQN dqn_02_lr_low] frames 130104 | episodes  7610 | avg return(50)  -10.37 | loss 0.0038 | eps 0.050
+[DQN dqn_02_lr_low] frames 135304 | episodes  7824 | avg return(50)   -8.32 | loss 0.0033 | eps 0.050
+[DQN dqn_02_lr_low] frames 140504 | episodes  8038 | avg return(50)   -8.28 | loss 0.0045 | eps 0.050
+[DQN dqn_02_lr_low] frames 145704 | episodes  8248 | avg return(50)  -10.08 | loss 0.0031 | eps 0.050
+[DQN dqn_02_lr_low] frames 150904 | episodes  8459 | avg return(50)   -9.20 | loss 0.0040 | eps 0.050
+[DQN dqn_02_lr_low] frames 156104 | episodes  8669 | avg return(50)   -9.70 | loss 0.0047 | eps 0.050
+[DQN dqn_02_lr_low] frames 161304 | episodes  8880 | avg return(50)   -8.24 | loss 0.0038 | eps 0.050
+[DQN dqn_02_lr_low] EVAL unseen: -5.50 | coverage 0.894 | famine 0.13
+[DQN dqn_03_lr_high] frames   5304 | episodes   474 | avg return(50)  -29.62 | loss 0.1103 | eps 0.939
+[DQN dqn_03_lr_high] frames  10504 | episodes   949 | avg return(50)  -29.51 | loss 0.0841 | eps 0.880
+[DQN dqn_03_lr_high] frames  15704 | episodes  1423 | avg return(50)  -29.73 | loss 0.0815 | eps 0.820
+[DQN dqn_03_lr_high] frames  20904 | episodes  1887 | avg return(50)  -29.39 | loss 0.0961 | eps 0.761
+[DQN dqn_03_lr_high] frames  26104 | episodes  2362 | avg return(50)  -29.44 | loss 0.0688 | eps 0.701
+[DQN dqn_03_lr_high] frames  31304 | episodes  2816 | avg return(50)  -29.07 | loss 0.0346 | eps 0.642
+[DQN dqn_03_lr_high] frames  36504 | episodes  3228 | avg return(50)  -28.14 | loss 0.0258 | eps 0.582
+[DQN dqn_03_lr_high] frames  41704 | episodes  3604 | avg return(50)  -27.45 | loss 0.0292 | eps 0.523
+[DQN dqn_03_lr_high] frames  46904 | episodes  3931 | avg return(50)  -27.35 | loss 0.0212 | eps 0.463
+[DQN dqn_03_lr_high] frames  52104 | episodes  4234 | avg return(50)  -27.11 | loss 0.0269 | eps 0.404
+[DQN dqn_03_lr_high] frames  57304 | episodes  4519 | avg return(50)  -27.49 | loss 0.0201 | eps 0.345
+[DQN dqn_03_lr_high] frames  62504 | episodes  4794 | avg return(50)  -25.91 | loss 0.0176 | eps 0.285
+[DQN dqn_03_lr_high] frames  67704 | episodes  5044 | avg return(50)  -24.32 | loss 0.0146 | eps 0.226
+[DQN dqn_03_lr_high] frames  72904 | episodes  5287 | avg return(50)  -23.17 | loss 0.0143 | eps 0.167
+[DQN dqn_03_lr_high] frames  78104 | episodes  5534 | avg return(50)  -23.09 | loss 0.0184 | eps 0.107
+[DQN dqn_03_lr_high] frames  83304 | episodes  5767 | avg return(50)  -20.25 | loss 0.0147 | eps 0.050
+[DQN dqn_03_lr_high] frames  88504 | episodes  5999 | avg return(50)  -20.54 | loss 0.0095 | eps 0.050
+[DQN dqn_03_lr_high] frames  93704 | episodes  6230 | avg return(50)  -21.55 | loss 0.0107 | eps 0.050
+[DQN dqn_03_lr_high] frames  98904 | episodes  6458 | avg return(50)  -17.27 | loss 0.0097 | eps 0.050
+[DQN dqn_03_lr_high] frames 104104 | episodes  6681 | avg return(50)  -18.47 | loss 0.0082 | eps 0.050
+[DQN dqn_03_lr_high] frames 109304 | episodes  6906 | avg return(50)  -16.91 | loss 0.0073 | eps 0.050
+[DQN dqn_03_lr_high] frames 114504 | episodes  7136 | avg return(50)  -20.82 | loss 0.0076 | eps 0.050
+[DQN dqn_03_lr_high] frames 119704 | episodes  7368 | avg return(50)  -19.62 | loss 0.0088 | eps 0.050
+[DQN dqn_03_lr_high] frames 124904 | episodes  7600 | avg return(50)  -19.12 | loss 0.0089 | eps 0.050
+[DQN dqn_03_lr_high] frames 130104 | episodes  7829 | avg return(50)  -19.02 | loss 0.0054 | eps 0.050
+[DQN dqn_03_lr_high] frames 135304 | episodes  8083 | avg return(50)  -22.91 | loss 0.0105 | eps 0.050
+[DQN dqn_03_lr_high] frames 140504 | episodes  8340 | avg return(50)  -21.30 | loss 0.0063 | eps 0.050
+[DQN dqn_03_lr_high] frames 145704 | episodes  8594 | avg return(50)  -20.04 | loss 0.0081 | eps 0.050
+[DQN dqn_03_lr_high] frames 150904 | episodes  8836 | avg return(50)  -18.97 | loss 0.0056 | eps 0.050
+[DQN dqn_03_lr_high] frames 156104 | episodes  9077 | avg return(50)  -16.49 | loss 0.0075 | eps 0.050
+[DQN dqn_03_lr_high] frames 161304 | episodes  9312 | avg return(50)  -18.08 | loss 0.0059 | eps 0.050
+[DQN dqn_03_lr_high] EVAL unseen: -15.79 | coverage 0.798 | famine 0.61
+[DQN dqn_04_gamma_090] frames   5304 | episodes   480 | avg return(50)  -29.64 | loss 0.1455 | eps 0.939
+[DQN dqn_04_gamma_090] frames  10504 | episodes   942 | avg return(50)  -29.69 | loss 0.1099 | eps 0.880
+[DQN dqn_04_gamma_090] frames  15704 | episodes  1408 | avg return(50)  -29.69 | loss 0.0732 | eps 0.820
+[DQN dqn_04_gamma_090] frames  20904 | episodes  1855 | avg return(50)  -29.20 | loss 0.0627 | eps 0.761
+[DQN dqn_04_gamma_090] frames  26104 | episodes  2286 | avg return(50)  -28.96 | loss 0.0384 | eps 0.701
+[DQN dqn_04_gamma_090] frames  31304 | episodes  2691 | avg return(50)  -28.13 | loss 0.0266 | eps 0.642
+[DQN dqn_04_gamma_090] frames  36504 | episodes  3065 | avg return(50)  -27.14 | loss 0.0176 | eps 0.582
+[DQN dqn_04_gamma_090] frames  41704 | episodes  3381 | avg return(50)  -26.06 | loss 0.0177 | eps 0.523
+[DQN dqn_04_gamma_090] frames  46904 | episodes  3656 | avg return(50)  -25.65 | loss 0.0156 | eps 0.463
+[DQN dqn_04_gamma_090] frames  52104 | episodes  3902 | avg return(50)  -23.08 | loss 0.0173 | eps 0.404
+[DQN dqn_04_gamma_090] frames  57304 | episodes  4130 | avg return(50)  -22.17 | loss 0.0122 | eps 0.345
+[DQN dqn_04_gamma_090] frames  62504 | episodes  4347 | avg return(50)  -16.97 | loss 0.0105 | eps 0.285
+[DQN dqn_04_gamma_090] frames  67704 | episodes  4560 | avg return(50)  -19.90 | loss 0.0099 | eps 0.226
+[DQN dqn_04_gamma_090] frames  72904 | episodes  4770 | avg return(50)  -16.31 | loss 0.0088 | eps 0.167
+[DQN dqn_04_gamma_090] frames  78104 | episodes  4977 | avg return(50)  -15.67 | loss 0.0072 | eps 0.107
+[DQN dqn_04_gamma_090] frames  83304 | episodes  5184 | avg return(50)  -12.72 | loss 0.0041 | eps 0.050
+[DQN dqn_04_gamma_090] frames  88504 | episodes  5389 | avg return(50)  -12.13 | loss 0.0038 | eps 0.050
+[DQN dqn_04_gamma_090] frames  93704 | episodes  5594 | avg return(50)  -10.90 | loss 0.0031 | eps 0.050
+[DQN dqn_04_gamma_090] frames  98904 | episodes  5796 | avg return(50)   -9.12 | loss 0.0023 | eps 0.050
+[DQN dqn_04_gamma_090] frames 104104 | episodes  5998 | avg return(50)   -6.75 | loss 0.0022 | eps 0.050
+[DQN dqn_04_gamma_090] frames 109304 | episodes  6199 | avg return(50)   -6.08 | loss 0.0018 | eps 0.050
+[DQN dqn_04_gamma_090] frames 114504 | episodes  6402 | avg return(50)   -8.39 | loss 0.0018 | eps 0.050
+[DQN dqn_04_gamma_090] frames 119704 | episodes  6604 | avg return(50)   -7.00 | loss 0.0017 | eps 0.050
+[DQN dqn_04_gamma_090] frames 124904 | episodes  6806 | avg return(50)   -7.65 | loss 0.0014 | eps 0.050
+[DQN dqn_04_gamma_090] frames 130104 | episodes  7008 | avg return(50)   -9.21 | loss 0.0022 | eps 0.050
+[DQN dqn_04_gamma_090] frames 135304 | episodes  7213 | avg return(50)   -8.39 | loss 0.0035 | eps 0.050
+[DQN dqn_04_gamma_090] frames 140504 | episodes  7416 | avg return(50)   -7.83 | loss 0.0014 | eps 0.050
+[DQN dqn_04_gamma_090] frames 145704 | episodes  7619 | avg return(50)   -9.04 | loss 0.0032 | eps 0.050
+[DQN dqn_04_gamma_090] frames 150904 | episodes  7822 | avg return(50)   -7.95 | loss 0.0019 | eps 0.050
+[DQN dqn_04_gamma_090] frames 156104 | episodes  8026 | avg return(50)  -10.01 | loss 0.0049 | eps 0.050
+[DQN dqn_04_gamma_090] frames 161304 | episodes  8229 | avg return(50)  -10.62 | loss 0.0030 | eps 0.050
+[DQN dqn_04_gamma_090] EVAL unseen: -6.40 | coverage 0.859 | famine 0.06
+[DQN dqn_05_gamma_0995] frames   5304 | episodes   475 | avg return(50)  -30.19 | loss 0.1448 | eps 0.939
+[DQN dqn_05_gamma_0995] frames  10504 | episodes   938 | avg return(50)  -29.50 | loss 0.0881 | eps 0.880
+[DQN dqn_05_gamma_0995] frames  15704 | episodes  1393 | avg return(50)  -29.50 | loss 0.0677 | eps 0.820
+[DQN dqn_05_gamma_0995] frames  20904 | episodes  1846 | avg return(50)  -29.18 | loss 0.0609 | eps 0.761
+[DQN dqn_05_gamma_0995] frames  26104 | episodes  2259 | avg return(50)  -29.01 | loss 0.0407 | eps 0.701
+[DQN dqn_05_gamma_0995] frames  31304 | episodes  2643 | avg return(50)  -27.74 | loss 0.0269 | eps 0.642
+[DQN dqn_05_gamma_0995] frames  36504 | episodes  2972 | avg return(50)  -26.21 | loss 0.0252 | eps 0.582
+[DQN dqn_05_gamma_0995] frames  41704 | episodes  3272 | avg return(50)  -25.33 | loss 0.0175 | eps 0.523
+[DQN dqn_05_gamma_0995] frames  46904 | episodes  3530 | avg return(50)  -24.63 | loss 0.0170 | eps 0.463
+[DQN dqn_05_gamma_0995] frames  52104 | episodes  3776 | avg return(50)  -23.10 | loss 0.0188 | eps 0.404
+[DQN dqn_05_gamma_0995] frames  57304 | episodes  4009 | avg return(50)  -21.29 | loss 0.0163 | eps 0.345
+[DQN dqn_05_gamma_0995] frames  62504 | episodes  4231 | avg return(50)  -17.80 | loss 0.0133 | eps 0.285
+[DQN dqn_05_gamma_0995] frames  67704 | episodes  4448 | avg return(50)  -19.00 | loss 0.0142 | eps 0.226
+[DQN dqn_05_gamma_0995] frames  72904 | episodes  4661 | avg return(50)  -17.48 | loss 0.0112 | eps 0.167
+[DQN dqn_05_gamma_0995] frames  78104 | episodes  4868 | avg return(50)  -13.56 | loss 0.0121 | eps 0.107
+[DQN dqn_05_gamma_0995] frames  83304 | episodes  5073 | avg return(50)  -11.62 | loss 0.0107 | eps 0.050
+[DQN dqn_05_gamma_0995] frames  88504 | episodes  5276 | avg return(50)   -9.42 | loss 0.0093 | eps 0.050
+[DQN dqn_05_gamma_0995] frames  93704 | episodes  5479 | avg return(50)   -8.58 | loss 0.0083 | eps 0.050
+[DQN dqn_05_gamma_0995] frames  98904 | episodes  5683 | avg return(50)   -8.85 | loss 0.0065 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 104104 | episodes  5888 | avg return(50)   -8.85 | loss 0.0054 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 109304 | episodes  6096 | avg return(50)   -9.03 | loss 0.0071 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 114504 | episodes  6300 | avg return(50)  -10.28 | loss 0.0056 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 119704 | episodes  6504 | avg return(50)   -8.53 | loss 0.0082 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 124904 | episodes  6707 | avg return(50)   -6.31 | loss 0.0056 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 130104 | episodes  6911 | avg return(50)   -8.37 | loss 0.0071 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 135304 | episodes  7116 | avg return(50)   -7.87 | loss 0.0062 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 140504 | episodes  7320 | avg return(50)   -6.86 | loss 0.0082 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 145704 | episodes  7522 | avg return(50)   -6.61 | loss 0.0107 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 150904 | episodes  7726 | avg return(50)   -7.35 | loss 0.0075 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 156104 | episodes  7930 | avg return(50)   -7.47 | loss 0.0089 | eps 0.050
+[DQN dqn_05_gamma_0995] frames 161304 | episodes  8136 | avg return(50)   -7.66 | loss 0.0132 | eps 0.050
+[DQN dqn_05_gamma_0995] EVAL unseen: -6.73 | coverage 0.874 | famine 0.20
+[DQN dqn_06_small_buffer] frames   5304 | episodes   476 | avg return(50)  -29.64 | loss 0.1458 | eps 0.939
+[DQN dqn_06_small_buffer] frames  10504 | episodes   946 | avg return(50)  -29.29 | loss 0.1151 | eps 0.880
+[DQN dqn_06_small_buffer] frames  15704 | episodes  1425 | avg return(50)  -29.92 | loss 0.1018 | eps 0.820
+[DQN dqn_06_small_buffer] frames  20904 | episodes  1884 | avg return(50)  -29.54 | loss 0.0551 | eps 0.761
+[DQN dqn_06_small_buffer] frames  26104 | episodes  2335 | avg return(50)  -28.80 | loss 0.0476 | eps 0.701
+[DQN dqn_06_small_buffer] frames  31304 | episodes  2747 | avg return(50)  -27.72 | loss 0.0338 | eps 0.642
+[DQN dqn_06_small_buffer] frames  36504 | episodes  3148 | avg return(50)  -28.07 | loss 0.0191 | eps 0.582
+[DQN dqn_06_small_buffer] frames  41704 | episodes  3491 | avg return(50)  -26.80 | loss 0.0179 | eps 0.523
+[DQN dqn_06_small_buffer] frames  46904 | episodes  3776 | avg return(50)  -26.25 | loss 0.0113 | eps 0.463
+[DQN dqn_06_small_buffer] frames  52104 | episodes  4040 | avg return(50)  -24.67 | loss 0.0092 | eps 0.404
+[DQN dqn_06_small_buffer] frames  57304 | episodes  4278 | avg return(50)  -21.28 | loss 0.0059 | eps 0.345
+[DQN dqn_06_small_buffer] frames  62504 | episodes  4507 | avg return(50)  -18.84 | loss 0.0059 | eps 0.285
+[DQN dqn_06_small_buffer] frames  67704 | episodes  4728 | avg return(50)  -17.49 | loss 0.0067 | eps 0.226
+[DQN dqn_06_small_buffer] frames  72904 | episodes  4943 | avg return(50)  -15.42 | loss 0.0051 | eps 0.167
+[DQN dqn_06_small_buffer] frames  78104 | episodes  5153 | avg return(50)  -14.56 | loss 0.0081 | eps 0.107
+[DQN dqn_06_small_buffer] frames  83304 | episodes  5362 | avg return(50)   -8.61 | loss 0.0040 | eps 0.050
+[DQN dqn_06_small_buffer] frames  88504 | episodes  5570 | avg return(50)  -10.69 | loss 0.0036 | eps 0.050
+[DQN dqn_06_small_buffer] frames  93704 | episodes  5778 | avg return(50)  -10.21 | loss 0.0056 | eps 0.050
+[DQN dqn_06_small_buffer] frames  98904 | episodes  5989 | avg return(50)  -11.40 | loss 0.0086 | eps 0.050
+[DQN dqn_06_small_buffer] frames 104104 | episodes  6203 | avg return(50)  -11.24 | loss 0.0064 | eps 0.050
+[DQN dqn_06_small_buffer] frames 109304 | episodes  6415 | avg return(50)  -11.57 | loss 0.0066 | eps 0.050
+[DQN dqn_06_small_buffer] frames 114504 | episodes  6626 | avg return(50)   -9.68 | loss 0.0052 | eps 0.050
+[DQN dqn_06_small_buffer] frames 119704 | episodes  6836 | avg return(50)   -8.74 | loss 0.0053 | eps 0.050
+[DQN dqn_06_small_buffer] frames 124904 | episodes  7051 | avg return(50)  -15.30 | loss 0.0084 | eps 0.050
+[DQN dqn_06_small_buffer] frames 130104 | episodes  7268 | avg return(50)  -15.27 | loss 0.0095 | eps 0.050
+[DQN dqn_06_small_buffer] frames 135304 | episodes  7483 | avg return(50)  -11.78 | loss 0.0084 | eps 0.050
+[DQN dqn_06_small_buffer] frames 140504 | episodes  7698 | avg return(50)  -13.57 | loss 0.0107 | eps 0.050
+[DQN dqn_06_small_buffer] frames 145704 | episodes  7912 | avg return(50)  -11.77 | loss 0.0112 | eps 0.050
+[DQN dqn_06_small_buffer] frames 150904 | episodes  8119 | avg return(50)  -13.51 | loss 0.0118 | eps 0.050
+[DQN dqn_06_small_buffer] frames 156104 | episodes  8324 | avg return(50)   -9.69 | loss 0.0108 | eps 0.050
+[DQN dqn_06_small_buffer] frames 161304 | episodes  8535 | avg return(50)  -13.25 | loss 0.0140 | eps 0.050
+[DQN dqn_06_small_buffer] EVAL unseen: -15.27 | coverage 0.803 | famine 0.48
+[DQN dqn_07_batch32] frames   5304 | episodes   475 | avg return(50)  -29.32 | loss 0.1601 | eps 0.939
+[DQN dqn_07_batch32] frames  10504 | episodes   949 | avg return(50)  -29.46 | loss 0.1364 | eps 0.880
+[DQN dqn_07_batch32] frames  15704 | episodes  1413 | avg return(50)  -29.63 | loss 0.0853 | eps 0.820
+[DQN dqn_07_batch32] frames  20904 | episodes  1877 | avg return(50)  -29.63 | loss 0.1215 | eps 0.761
+[DQN dqn_07_batch32] frames  26104 | episodes  2336 | avg return(50)  -29.25 | loss 0.0824 | eps 0.701
+[DQN dqn_07_batch32] frames  31304 | episodes  2767 | avg return(50)  -29.39 | loss 0.0193 | eps 0.642
+[DQN dqn_07_batch32] frames  36504 | episodes  3177 | avg return(50)  -28.09 | loss 0.0305 | eps 0.582
+[DQN dqn_07_batch32] frames  41704 | episodes  3542 | avg return(50)  -28.01 | loss 0.0171 | eps 0.523
+[DQN dqn_07_batch32] frames  46904 | episodes  3858 | avg return(50)  -26.69 | loss 0.0250 | eps 0.463
+[DQN dqn_07_batch32] frames  52104 | episodes  4159 | avg return(50)  -25.96 | loss 0.0109 | eps 0.404
+[DQN dqn_07_batch32] frames  57304 | episodes  4428 | avg return(50)  -24.83 | loss 0.0160 | eps 0.345
+[DQN dqn_07_batch32] frames  62504 | episodes  4686 | avg return(50)  -24.24 | loss 0.0147 | eps 0.285
+[DQN dqn_07_batch32] frames  67704 | episodes  4923 | avg return(50)  -22.90 | loss 0.0127 | eps 0.226
+[DQN dqn_07_batch32] frames  72904 | episodes  5151 | avg return(50)  -20.12 | loss 0.0122 | eps 0.167
+[DQN dqn_07_batch32] frames  78104 | episodes  5371 | avg return(50)  -15.87 | loss 0.0091 | eps 0.107
+[DQN dqn_07_batch32] frames  83304 | episodes  5586 | avg return(50)  -17.70 | loss 0.0098 | eps 0.050
+[DQN dqn_07_batch32] frames  88504 | episodes  5796 | avg return(50)  -13.59 | loss 0.0061 | eps 0.050
+[DQN dqn_07_batch32] frames  93704 | episodes  6007 | avg return(50)  -12.91 | loss 0.0078 | eps 0.050
+[DQN dqn_07_batch32] frames  98904 | episodes  6216 | avg return(50)  -12.06 | loss 0.0031 | eps 0.050
+[DQN dqn_07_batch32] frames 104104 | episodes  6424 | avg return(50)  -13.49 | loss 0.0038 | eps 0.050
+[DQN dqn_07_batch32] frames 109304 | episodes  6631 | avg return(50)  -12.41 | loss 0.0035 | eps 0.050
+[DQN dqn_07_batch32] frames 114504 | episodes  6842 | avg return(50)  -10.50 | loss 0.0037 | eps 0.050
+[DQN dqn_07_batch32] frames 119704 | episodes  7050 | avg return(50)  -10.72 | loss 0.0046 | eps 0.050
+[DQN dqn_07_batch32] frames 124904 | episodes  7262 | avg return(50)  -12.84 | loss 0.0037 | eps 0.050
+[DQN dqn_07_batch32] frames 130104 | episodes  7473 | avg return(50)  -11.35 | loss 0.0039 | eps 0.050
+[DQN dqn_07_batch32] frames 135304 | episodes  7686 | avg return(50)  -11.25 | loss 0.0052 | eps 0.050
+[DQN dqn_07_batch32] frames 140504 | episodes  7896 | avg return(50)  -13.77 | loss 0.0038 | eps 0.050
+[DQN dqn_07_batch32] frames 145704 | episodes  8105 | avg return(50)  -12.13 | loss 0.0048 | eps 0.050
+[DQN dqn_07_batch32] frames 150904 | episodes  8314 | avg return(50)  -10.68 | loss 0.0104 | eps 0.050
+[DQN dqn_07_batch32] frames 156104 | episodes  8523 | avg return(50)   -9.81 | loss 0.0043 | eps 0.050
+[DQN dqn_07_batch32] frames 161304 | episodes  8738 | avg return(50)  -14.55 | loss 0.0096 | eps 0.050
+[DQN dqn_07_batch32] EVAL unseen: -17.04 | coverage 0.814 | famine 0.76
+[DQN dqn_08_fast_eps_decay] frames   5304 | episodes   482 | avg return(50)  -29.79 | loss 0.1350 | eps 0.697
+[DQN dqn_08_fast_eps_decay] frames  10504 | episodes   949 | avg return(50)  -29.91 | loss 0.0685 | eps 0.400
+[DQN dqn_08_fast_eps_decay] frames  15704 | episodes  1410 | avg return(50)  -29.81 | loss 0.0544 | eps 0.103
+[DQN dqn_08_fast_eps_decay] frames  20904 | episodes  1825 | avg return(50)  -29.53 | loss 0.0309 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  26104 | episodes  2170 | avg return(50)  -27.23 | loss 0.0174 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  31304 | episodes  2463 | avg return(50)  -25.50 | loss 0.0169 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  36504 | episodes  2709 | avg return(50)  -23.05 | loss 0.0124 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  41704 | episodes  2932 | avg return(50)  -22.05 | loss 0.0100 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  46904 | episodes  3147 | avg return(50)  -18.90 | loss 0.0073 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  52104 | episodes  3356 | avg return(50)  -16.19 | loss 0.0074 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  57304 | episodes  3564 | avg return(50)  -15.20 | loss 0.0083 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  62504 | episodes  3771 | avg return(50)  -13.12 | loss 0.0073 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  67704 | episodes  3977 | avg return(50)  -10.46 | loss 0.0062 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  72904 | episodes  4185 | avg return(50)  -13.17 | loss 0.0064 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  78104 | episodes  4390 | avg return(50)   -8.38 | loss 0.0036 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  83304 | episodes  4594 | avg return(50)   -9.83 | loss 0.0035 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  88504 | episodes  4800 | avg return(50)   -7.86 | loss 0.0036 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  93704 | episodes  5009 | avg return(50)   -9.05 | loss 0.0044 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames  98904 | episodes  5213 | avg return(50)   -8.74 | loss 0.0041 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 104104 | episodes  5418 | avg return(50)   -9.40 | loss 0.0043 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 109304 | episodes  5625 | avg return(50)   -7.25 | loss 0.0059 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 114504 | episodes  5832 | avg return(50)   -8.84 | loss 0.0046 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 119704 | episodes  6036 | avg return(50)   -8.87 | loss 0.0072 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 124904 | episodes  6241 | avg return(50)   -7.02 | loss 0.0066 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 130104 | episodes  6445 | avg return(50)   -6.78 | loss 0.0073 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 135304 | episodes  6648 | avg return(50)   -7.80 | loss 0.0087 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 140504 | episodes  6852 | avg return(50)   -6.02 | loss 0.0092 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 145704 | episodes  7059 | avg return(50)  -10.72 | loss 0.0128 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 150904 | episodes  7265 | avg return(50)   -7.45 | loss 0.0172 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 156104 | episodes  7470 | avg return(50)   -7.08 | loss 0.0160 | eps 0.050
+[DQN dqn_08_fast_eps_decay] frames 161304 | episodes  7675 | avg return(50)   -8.82 | loss 0.0178 | eps 0.050
+[DQN dqn_08_fast_eps_decay] EVAL unseen: -5.65 | coverage 0.876 | famine 0.08
+[DQN dqn_09_high_eps_floor] frames   5304 | episodes   474 | avg return(50)  -29.53 | loss 0.1280 | eps 0.949
+[DQN dqn_09_high_eps_floor] frames  10504 | episodes   935 | avg return(50)  -29.61 | loss 0.0925 | eps 0.899
+[DQN dqn_09_high_eps_floor] frames  15704 | episodes  1404 | avg return(50)  -29.77 | loss 0.0698 | eps 0.849
+[DQN dqn_09_high_eps_floor] frames  20904 | episodes  1867 | avg return(50)  -29.27 | loss 0.0519 | eps 0.799
+[DQN dqn_09_high_eps_floor] frames  26104 | episodes  2301 | avg return(50)  -29.42 | loss 0.0401 | eps 0.749
+[DQN dqn_09_high_eps_floor] frames  31304 | episodes  2706 | avg return(50)  -28.33 | loss 0.0243 | eps 0.700
+[DQN dqn_09_high_eps_floor] frames  36504 | episodes  3058 | avg return(50)  -26.87 | loss 0.0196 | eps 0.650
+[DQN dqn_09_high_eps_floor] frames  41704 | episodes  3374 | avg return(50)  -26.65 | loss 0.0184 | eps 0.600
+[DQN dqn_09_high_eps_floor] frames  46904 | episodes  3643 | avg return(50)  -25.44 | loss 0.0147 | eps 0.550
+[DQN dqn_09_high_eps_floor] frames  52104 | episodes  3908 | avg return(50)  -25.08 | loss 0.0154 | eps 0.500
+[DQN dqn_09_high_eps_floor] frames  57304 | episodes  4156 | avg return(50)  -23.32 | loss 0.0179 | eps 0.450
+[DQN dqn_09_high_eps_floor] frames  62504 | episodes  4389 | avg return(50)  -23.39 | loss 0.0141 | eps 0.400
+[DQN dqn_09_high_eps_floor] frames  67704 | episodes  4623 | avg return(50)  -21.34 | loss 0.0143 | eps 0.350
+[DQN dqn_09_high_eps_floor] frames  72904 | episodes  4842 | avg return(50)  -20.99 | loss 0.0115 | eps 0.300
+[DQN dqn_09_high_eps_floor] frames  78104 | episodes  5062 | avg return(50)  -18.48 | loss 0.0086 | eps 0.250
+[DQN dqn_09_high_eps_floor] frames  83304 | episodes  5274 | avg return(50)  -14.92 | loss 0.0087 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames  88504 | episodes  5488 | avg return(50)  -16.88 | loss 0.0070 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames  93704 | episodes  5697 | avg return(50)  -15.86 | loss 0.0061 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames  98904 | episodes  5908 | avg return(50)  -13.62 | loss 0.0073 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 104104 | episodes  6118 | avg return(50)  -14.04 | loss 0.0063 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 109304 | episodes  6329 | avg return(50)  -14.46 | loss 0.0073 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 114504 | episodes  6539 | avg return(50)  -15.06 | loss 0.0067 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 119704 | episodes  6746 | avg return(50)  -11.97 | loss 0.0045 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 124904 | episodes  6954 | avg return(50)  -12.27 | loss 0.0053 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 130104 | episodes  7165 | avg return(50)  -12.92 | loss 0.0047 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 135304 | episodes  7373 | avg return(50)  -11.91 | loss 0.0049 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 140504 | episodes  7581 | avg return(50)  -10.80 | loss 0.0050 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 145704 | episodes  7789 | avg return(50)  -12.50 | loss 0.0047 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 150904 | episodes  7996 | avg return(50)  -12.02 | loss 0.0047 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 156104 | episodes  8204 | avg return(50)  -11.16 | loss 0.0052 | eps 0.200
+[DQN dqn_09_high_eps_floor] frames 161304 | episodes  8412 | avg return(50)  -12.89 | loss 0.0063 | eps 0.200
+[DQN dqn_09_high_eps_floor] EVAL unseen: -9.03 | coverage 0.854 | famine 0.24
+[DQN dqn_10_soft_target] frames   5304 | episodes   477 | avg return(50)  -29.79 | loss 0.1188 | eps 0.939
+[DQN dqn_10_soft_target] frames  10504 | episodes   949 | avg return(50)  -29.92 | loss 0.0600 | eps 0.880
+[DQN dqn_10_soft_target] frames  15704 | episodes  1406 | avg return(50)  -29.49 | loss 0.0310 | eps 0.820
+[DQN dqn_10_soft_target] frames  20904 | episodes  1824 | avg return(50)  -28.14 | loss 0.0192 | eps 0.761
+[DQN dqn_10_soft_target] frames  26104 | episodes  2201 | avg return(50)  -27.77 | loss 0.0133 | eps 0.701
+[DQN dqn_10_soft_target] frames  31304 | episodes  2526 | avg return(50)  -26.20 | loss 0.0105 | eps 0.642
+[DQN dqn_10_soft_target] frames  36504 | episodes  2822 | avg return(50)  -23.91 | loss 0.0109 | eps 0.582
+[DQN dqn_10_soft_target] frames  41704 | episodes  3088 | avg return(50)  -23.66 | loss 0.0120 | eps 0.523
+[DQN dqn_10_soft_target] frames  46904 | episodes  3339 | avg return(50)  -22.45 | loss 0.0082 | eps 0.463
+[DQN dqn_10_soft_target] frames  52104 | episodes  3576 | avg return(50)  -19.80 | loss 0.0087 | eps 0.404
+[DQN dqn_10_soft_target] frames  57304 | episodes  3800 | avg return(50)  -17.08 | loss 0.0068 | eps 0.345
+[DQN dqn_10_soft_target] frames  62504 | episodes  4019 | avg return(50)  -17.42 | loss 0.0059 | eps 0.285
+[DQN dqn_10_soft_target] frames  67704 | episodes  4233 | avg return(50)  -14.72 | loss 0.0049 | eps 0.226
+[DQN dqn_10_soft_target] frames  72904 | episodes  4444 | avg return(50)  -15.49 | loss 0.0040 | eps 0.167
+[DQN dqn_10_soft_target] frames  78104 | episodes  4652 | avg return(50)  -12.73 | loss 0.0044 | eps 0.107
+[DQN dqn_10_soft_target] frames  83304 | episodes  4859 | avg return(50)  -11.82 | loss 0.0026 | eps 0.050
+[DQN dqn_10_soft_target] frames  88504 | episodes  5064 | avg return(50)  -10.96 | loss 0.0023 | eps 0.050
+[DQN dqn_10_soft_target] frames  93704 | episodes  5268 | avg return(50)  -10.06 | loss 0.0033 | eps 0.050
+[DQN dqn_10_soft_target] frames  98904 | episodes  5471 | avg return(50)   -7.78 | loss 0.0028 | eps 0.050
+[DQN dqn_10_soft_target] frames 104104 | episodes  5673 | avg return(50)   -9.30 | loss 0.0025 | eps 0.050
+[DQN dqn_10_soft_target] frames 109304 | episodes  5876 | avg return(50)   -9.51 | loss 0.0027 | eps 0.050
+[DQN dqn_10_soft_target] frames 114504 | episodes  6079 | avg return(50)   -7.49 | loss 0.0034 | eps 0.050
+[DQN dqn_10_soft_target] frames 119704 | episodes  6282 | avg return(50)   -6.34 | loss 0.0040 | eps 0.050
+[DQN dqn_10_soft_target] frames 124904 | episodes  6485 | avg return(50)   -6.99 | loss 0.0070 | eps 0.050
+[DQN dqn_10_soft_target] frames 130104 | episodes  6687 | avg return(50)   -6.30 | loss 0.0090 | eps 0.050
+[DQN dqn_10_soft_target] frames 135304 | episodes  6889 | avg return(50)   -8.08 | loss 0.0112 | eps 0.050
+[DQN dqn_10_soft_target] frames 140504 | episodes  7095 | avg return(50)   -6.54 | loss 0.0136 | eps 0.050
+[DQN dqn_10_soft_target] frames 145704 | episodes  7298 | avg return(50)   -6.30 | loss 0.0185 | eps 0.050
+[DQN dqn_10_soft_target] frames 150904 | episodes  7502 | avg return(50)   -9.50 | loss 0.0265 | eps 0.050
+[DQN dqn_10_soft_target] frames 156104 | episodes  7712 | avg return(50)   -9.49 | loss 0.0354 | eps 0.050
+[DQN dqn_10_soft_target] frames 161304 | episodes  7916 | avg return(50)   -7.51 | loss 0.0400 | eps 0.050
+[DQN dqn_10_soft_target] EVAL unseen: -6.60 | coverage 0.872 | famine 0.14
+[DQN dqn_11_double_dqn] frames   5304 | episodes   471 | avg return(50)  -29.71 | loss 0.1508 | eps 0.939
+[DQN dqn_11_double_dqn] frames  10504 | episodes   937 | avg return(50)  -29.74 | loss 0.0919 | eps 0.880
+[DQN dqn_11_double_dqn] frames  15704 | episodes  1398 | avg return(50)  -29.76 | loss 0.0574 | eps 0.820
+[DQN dqn_11_double_dqn] frames  20904 | episodes  1849 | avg return(50)  -28.78 | loss 0.0545 | eps 0.761
+[DQN dqn_11_double_dqn] frames  26104 | episodes  2265 | avg return(50)  -28.87 | loss 0.0249 | eps 0.701
+[DQN dqn_11_double_dqn] frames  31304 | episodes  2640 | avg return(50)  -27.69 | loss 0.0192 | eps 0.642
+[DQN dqn_11_double_dqn] frames  36504 | episodes  2980 | avg return(50)  -26.50 | loss 0.0156 | eps 0.582
+[DQN dqn_11_double_dqn] frames  41704 | episodes  3273 | avg return(50)  -26.45 | loss 0.0153 | eps 0.523
+[DQN dqn_11_double_dqn] frames  46904 | episodes  3546 | avg return(50)  -25.56 | loss 0.0120 | eps 0.463
+[DQN dqn_11_double_dqn] frames  52104 | episodes  3799 | avg return(50)  -23.97 | loss 0.0114 | eps 0.404
+[DQN dqn_11_double_dqn] frames  57304 | episodes  4037 | avg return(50)  -23.19 | loss 0.0102 | eps 0.345
+[DQN dqn_11_double_dqn] frames  62504 | episodes  4269 | avg return(50)  -21.45 | loss 0.0088 | eps 0.285
+[DQN dqn_11_double_dqn] frames  67704 | episodes  4495 | avg return(50)  -19.67 | loss 0.0085 | eps 0.226
+[DQN dqn_11_double_dqn] frames  72904 | episodes  4714 | avg return(50)  -17.75 | loss 0.0090 | eps 0.167
+[DQN dqn_11_double_dqn] frames  78104 | episodes  4927 | avg return(50)  -12.89 | loss 0.0063 | eps 0.107
+[DQN dqn_11_double_dqn] frames  83304 | episodes  5136 | avg return(50)  -10.25 | loss 0.0052 | eps 0.050
+[DQN dqn_11_double_dqn] frames  88504 | episodes  5343 | avg return(50)  -13.25 | loss 0.0050 | eps 0.050
+[DQN dqn_11_double_dqn] frames  93704 | episodes  5549 | avg return(50)   -9.71 | loss 0.0053 | eps 0.050
+[DQN dqn_11_double_dqn] frames  98904 | episodes  5755 | avg return(50)  -10.02 | loss 0.0042 | eps 0.050
+[DQN dqn_11_double_dqn] frames 104104 | episodes  5962 | avg return(50)   -8.55 | loss 0.0038 | eps 0.050
+[DQN dqn_11_double_dqn] frames 109304 | episodes  6170 | avg return(50)   -8.88 | loss 0.0036 | eps 0.050
+[DQN dqn_11_double_dqn] frames 114504 | episodes  6377 | avg return(50)   -6.74 | loss 0.0035 | eps 0.050
+[DQN dqn_11_double_dqn] frames 119704 | episodes  6581 | avg return(50)   -8.30 | loss 0.0048 | eps 0.050
+[DQN dqn_11_double_dqn] frames 124904 | episodes  6786 | avg return(50)   -6.27 | loss 0.0036 | eps 0.050
+[DQN dqn_11_double_dqn] frames 130104 | episodes  6989 | avg return(50)   -7.64 | loss 0.0038 | eps 0.050
+[DQN dqn_11_double_dqn] frames 135304 | episodes  7193 | avg return(50)   -8.67 | loss 0.0036 | eps 0.050
+[DQN dqn_11_double_dqn] frames 140504 | episodes  7398 | avg return(50)   -6.79 | loss 0.0042 | eps 0.050
+[DQN dqn_11_double_dqn] frames 145704 | episodes  7606 | avg return(50)   -8.30 | loss 0.0052 | eps 0.050
+[DQN dqn_11_double_dqn] frames 150904 | episodes  7816 | avg return(50)   -6.59 | loss 0.0051 | eps 0.050
+[DQN dqn_11_double_dqn] frames 156104 | episodes  8021 | avg return(50)   -7.37 | loss 0.0062 | eps 0.050
+[DQN dqn_11_double_dqn] frames 161304 | episodes  8224 | avg return(50)   -6.26 | loss 0.0073 | eps 0.050
+[DQN dqn_11_double_dqn] EVAL unseen: -6.16 | coverage 0.874 | famine 0.13
+[DQN dqn_12_double_soft_wide] frames   5304 | episodes   474 | avg return(50)  -28.84 | loss 0.0942 | eps 0.939
+[DQN dqn_12_double_soft_wide] frames  10504 | episodes   939 | avg return(50)  -29.00 | loss 0.0201 | eps 0.880
+[DQN dqn_12_double_soft_wide] frames  15704 | episodes  1378 | avg return(50)  -28.91 | loss 0.0126 | eps 0.820
+[DQN dqn_12_double_soft_wide] frames  20904 | episodes  1758 | avg return(50)  -27.35 | loss 0.0095 | eps 0.761
+[DQN dqn_12_double_soft_wide] frames  26104 | episodes  2108 | avg return(50)  -27.32 | loss 0.0083 | eps 0.701
+[DQN dqn_12_double_soft_wide] frames  31304 | episodes  2420 | avg return(50)  -25.59 | loss 0.0071 | eps 0.642
+[DQN dqn_12_double_soft_wide] frames  36504 | episodes  2711 | avg return(50)  -25.66 | loss 0.0085 | eps 0.582
+[DQN dqn_12_double_soft_wide] frames  41704 | episodes  2978 | avg return(50)  -24.54 | loss 0.0060 | eps 0.523
+[DQN dqn_12_double_soft_wide] frames  46904 | episodes  3232 | avg return(50)  -22.25 | loss 0.0061 | eps 0.463
+[DQN dqn_12_double_soft_wide] frames  52104 | episodes  3471 | avg return(50)  -19.33 | loss 0.0061 | eps 0.404
+[DQN dqn_12_double_soft_wide] frames  57304 | episodes  3696 | avg return(50)  -19.31 | loss 0.0049 | eps 0.345
+[DQN dqn_12_double_soft_wide] frames  62504 | episodes  3915 | avg return(50)  -18.02 | loss 0.0037 | eps 0.285
+[DQN dqn_12_double_soft_wide] frames  67704 | episodes  4130 | avg return(50)  -18.08 | loss 0.0036 | eps 0.226
+[DQN dqn_12_double_soft_wide] frames  72904 | episodes  4339 | avg return(50)  -16.39 | loss 0.0028 | eps 0.167
+[DQN dqn_12_double_soft_wide] frames  78104 | episodes  4547 | avg return(50)  -12.48 | loss 0.0026 | eps 0.107
+[DQN dqn_12_double_soft_wide] frames  83304 | episodes  4752 | avg return(50)   -9.76 | loss 0.0021 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames  88504 | episodes  4956 | avg return(50)   -9.11 | loss 0.0025 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames  93704 | episodes  5159 | avg return(50)   -6.68 | loss 0.0028 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames  98904 | episodes  5362 | avg return(50)   -9.22 | loss 0.0034 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 104104 | episodes  5565 | avg return(50)   -7.45 | loss 0.0033 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 109304 | episodes  5767 | avg return(50)   -5.91 | loss 0.0064 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 114504 | episodes  5971 | avg return(50)   -6.43 | loss 0.0074 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 119704 | episodes  6174 | avg return(50)   -5.92 | loss 0.0099 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 124904 | episodes  6379 | avg return(50)   -4.28 | loss 0.0147 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 130104 | episodes  6583 | avg return(50)   -5.97 | loss 0.0217 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 135304 | episodes  6787 | avg return(50)   -5.97 | loss 0.0269 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 140504 | episodes  6993 | avg return(50)   -7.41 | loss 0.0371 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 145704 | episodes  7200 | avg return(50)   -7.69 | loss 0.0469 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 150904 | episodes  7403 | avg return(50)   -5.98 | loss 0.0639 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 156104 | episodes  7608 | avg return(50)   -5.21 | loss 0.0832 | eps 0.050
+[DQN dqn_12_double_soft_wide] frames 161304 | episodes  7815 | avg return(50)   -7.42 | loss 0.0983 | eps 0.050
+[DQN dqn_12_double_soft_wide] EVAL unseen: -6.00 | coverage 0.886 | famine 0.15
+[A2C a2c_01_baseline] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.634
+[A2C a2c_01_baseline] frames   8112 | episodes   741 | avg return(50)  -29.47 | entropy 2.587
+[A2C a2c_01_baseline] frames  16016 | episodes  1434 | avg return(50)  -28.77 | entropy 2.479
+[A2C a2c_01_baseline] frames  23920 | episodes  2115 | avg return(50)  -28.09 | entropy 2.459
+[A2C a2c_01_baseline] frames  31824 | episodes  2738 | avg return(50)  -27.41 | entropy 2.308
+[A2C a2c_01_baseline] frames  39728 | episodes  3304 | avg return(50)  -25.53 | entropy 2.208
+[A2C a2c_01_baseline] frames  47632 | episodes  3804 | avg return(50)  -24.88 | entropy 2.075
+[A2C a2c_01_baseline] frames  55536 | episodes  4269 | avg return(50)  -23.90 | entropy 1.933
+[A2C a2c_01_baseline] frames  63440 | episodes  4692 | avg return(50)  -23.23 | entropy 1.887
+[A2C a2c_01_baseline] frames  71344 | episodes  5089 | avg return(50)  -22.35 | entropy 1.744
+[A2C a2c_01_baseline] frames  79248 | episodes  5472 | avg return(50)  -20.92 | entropy 1.791
+[A2C a2c_01_baseline] frames  87152 | episodes  5845 | avg return(50)  -21.61 | entropy 1.828
+[A2C a2c_01_baseline] frames  95056 | episodes  6205 | avg return(50)  -20.15 | entropy 1.723
+[A2C a2c_01_baseline] frames 102960 | episodes  6556 | avg return(50)  -17.18 | entropy 1.629
+[A2C a2c_01_baseline] frames 110864 | episodes  6911 | avg return(50)  -17.94 | entropy 1.655
+[A2C a2c_01_baseline] frames 118768 | episodes  7262 | avg return(50)  -17.22 | entropy 1.632
+[A2C a2c_01_baseline] frames 126672 | episodes  7616 | avg return(50)  -16.02 | entropy 1.595
+[A2C a2c_01_baseline] frames 134576 | episodes  7967 | avg return(50)  -16.62 | entropy 1.377
+[A2C a2c_01_baseline] frames 142480 | episodes  8318 | avg return(50)  -13.26 | entropy 1.467
+[A2C a2c_01_baseline] frames 150384 | episodes  8656 | avg return(50)  -13.41 | entropy 1.477
+[A2C a2c_01_baseline] frames 158288 | episodes  9005 | avg return(50)  -14.90 | entropy 1.480
+[A2C a2c_01_baseline] frames 166192 | episodes  9343 | avg return(50)  -14.69 | entropy 1.503
+[A2C a2c_01_baseline] EVAL unseen: -12.68 | coverage 0.854 | famine 0.50
+[A2C a2c_02_lr_low] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.635
+[A2C a2c_02_lr_low] frames   8112 | episodes   742 | avg return(50)  -29.73 | entropy 2.622
+[A2C a2c_02_lr_low] frames  16016 | episodes  1452 | avg return(50)  -29.46 | entropy 2.609
+[A2C a2c_02_lr_low] frames  23920 | episodes  2153 | avg return(50)  -28.99 | entropy 2.588
+[A2C a2c_02_lr_low] frames  31824 | episodes  2854 | avg return(50)  -28.72 | entropy 2.555
+[A2C a2c_02_lr_low] frames  39728 | episodes  3560 | avg return(50)  -29.51 | entropy 2.526
+[A2C a2c_02_lr_low] frames  47632 | episodes  4236 | avg return(50)  -28.74 | entropy 2.559
+[A2C a2c_02_lr_low] frames  55536 | episodes  4907 | avg return(50)  -28.45 | entropy 2.551
+[A2C a2c_02_lr_low] frames  63440 | episodes  5589 | avg return(50)  -29.10 | entropy 2.508
+[A2C a2c_02_lr_low] frames  71344 | episodes  6239 | avg return(50)  -28.47 | entropy 2.484
+[A2C a2c_02_lr_low] frames  79248 | episodes  6869 | avg return(50)  -27.43 | entropy 2.434
+[A2C a2c_02_lr_low] frames  87152 | episodes  7483 | avg return(50)  -27.87 | entropy 2.348
+[A2C a2c_02_lr_low] frames  95056 | episodes  8093 | avg return(50)  -26.51 | entropy 2.349
+[A2C a2c_02_lr_low] frames 102960 | episodes  8655 | avg return(50)  -25.65 | entropy 2.258
+[A2C a2c_02_lr_low] frames 110864 | episodes  9223 | avg return(50)  -26.14 | entropy 2.259
+[A2C a2c_02_lr_low] frames 118768 | episodes  9755 | avg return(50)  -25.87 | entropy 2.253
+[A2C a2c_02_lr_low] frames 126672 | episodes 10254 | avg return(50)  -24.68 | entropy 2.183
+[A2C a2c_02_lr_low] frames 134576 | episodes 10756 | avg return(50)  -25.45 | entropy 2.189
+[A2C a2c_02_lr_low] frames 142480 | episodes 11236 | avg return(50)  -25.24 | entropy 2.199
+[A2C a2c_02_lr_low] frames 150384 | episodes 11701 | avg return(50)  -24.42 | entropy 2.104
+[A2C a2c_02_lr_low] frames 158288 | episodes 12135 | avg return(50)  -23.49 | entropy 2.110
+[A2C a2c_02_lr_low] frames 166192 | episodes 12564 | avg return(50)  -23.17 | entropy 2.046
+[A2C a2c_02_lr_low] EVAL unseen: -19.92 | coverage 0.786 | famine 0.90
+[A2C a2c_03_lr_high] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.621
+[A2C a2c_03_lr_high] frames   8112 | episodes   726 | avg return(50)  -29.63 | entropy 2.418
+[A2C a2c_03_lr_high] frames  16016 | episodes  1420 | avg return(50)  -28.51 | entropy 2.464
+[A2C a2c_03_lr_high] frames  23920 | episodes  2048 | avg return(50)  -26.97 | entropy 2.205
+[A2C a2c_03_lr_high] frames  31824 | episodes  2563 | avg return(50)  -24.91 | entropy 1.662
+[A2C a2c_03_lr_high] frames  39728 | episodes  3039 | avg return(50)  -26.31 | entropy 1.545
+[A2C a2c_03_lr_high] frames  47632 | episodes  3482 | avg return(50)  -24.59 | entropy 1.431
+[A2C a2c_03_lr_high] frames  55536 | episodes  3868 | avg return(50)  -20.70 | entropy 1.288
+[A2C a2c_03_lr_high] frames  63440 | episodes  4250 | avg return(50)  -21.42 | entropy 1.392
+[A2C a2c_03_lr_high] frames  71344 | episodes  4622 | avg return(50)  -22.57 | entropy 1.422
+[A2C a2c_03_lr_high] frames  79248 | episodes  4986 | avg return(50)  -16.42 | entropy 1.230
+[A2C a2c_03_lr_high] frames  87152 | episodes  5364 | avg return(50)  -15.65 | entropy 1.015
+[A2C a2c_03_lr_high] frames  95056 | episodes  5770 | avg return(50)  -20.27 | entropy 0.988
+[A2C a2c_03_lr_high] frames 102960 | episodes  6156 | avg return(50)  -17.71 | entropy 0.963
+[A2C a2c_03_lr_high] frames 110864 | episodes  6516 | avg return(50)  -17.54 | entropy 0.962
+[A2C a2c_03_lr_high] frames 118768 | episodes  6881 | avg return(50)  -16.56 | entropy 1.037
+[A2C a2c_03_lr_high] frames 126672 | episodes  7270 | avg return(50)  -18.73 | entropy 1.006
+[A2C a2c_03_lr_high] frames 134576 | episodes  7668 | avg return(50)  -15.79 | entropy 0.954
+[A2C a2c_03_lr_high] frames 142480 | episodes  8025 | avg return(50)  -18.15 | entropy 1.074
+[A2C a2c_03_lr_high] frames 150384 | episodes  8408 | avg return(50)  -17.88 | entropy 0.777
+[A2C a2c_03_lr_high] frames 158288 | episodes  8769 | avg return(50)  -16.83 | entropy 0.778
+[A2C a2c_03_lr_high] frames 166192 | episodes  9136 | avg return(50)  -20.94 | entropy 0.711
+[A2C a2c_03_lr_high] EVAL unseen: -20.97 | coverage 0.777 | famine 0.91
+[A2C a2c_04_td0] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.634
+[A2C a2c_04_td0] frames   8112 | episodes   755 | avg return(50)  -29.74 | entropy 2.499
+[A2C a2c_04_td0] frames  16016 | episodes  1523 | avg return(50)  -30.06 | entropy 1.989
+[A2C a2c_04_td0] frames  23920 | episodes  2273 | avg return(50)  -29.41 | entropy 2.290
+[A2C a2c_04_td0] frames  31824 | episodes  2989 | avg return(50)  -29.81 | entropy 2.229
+[A2C a2c_04_td0] frames  39728 | episodes  3696 | avg return(50)  -29.65 | entropy 2.250
+[A2C a2c_04_td0] frames  47632 | episodes  4381 | avg return(50)  -29.73 | entropy 2.079
+[A2C a2c_04_td0] frames  55536 | episodes  5066 | avg return(50)  -29.88 | entropy 2.115
+[A2C a2c_04_td0] frames  63440 | episodes  5735 | avg return(50)  -29.79 | entropy 1.919
+[A2C a2c_04_td0] frames  71344 | episodes  6403 | avg return(50)  -29.92 | entropy 2.156
+[A2C a2c_04_td0] frames  79248 | episodes  7063 | avg return(50)  -29.47 | entropy 1.974
+[A2C a2c_04_td0] frames  87152 | episodes  7713 | avg return(50)  -29.63 | entropy 2.068
+[A2C a2c_04_td0] frames  95056 | episodes  8370 | avg return(50)  -29.69 | entropy 2.154
+[A2C a2c_04_td0] frames 102960 | episodes  9020 | avg return(50)  -29.26 | entropy 2.168
+[A2C a2c_04_td0] frames 110864 | episodes  9665 | avg return(50)  -29.19 | entropy 2.230
+[A2C a2c_04_td0] frames 118768 | episodes 10305 | avg return(50)  -29.26 | entropy 2.169
+[A2C a2c_04_td0] frames 126672 | episodes 10937 | avg return(50)  -28.69 | entropy 2.199
+[A2C a2c_04_td0] frames 134576 | episodes 11527 | avg return(50)  -27.24 | entropy 2.092
+[A2C a2c_04_td0] frames 142480 | episodes 12114 | avg return(50)  -27.97 | entropy 2.041
+[A2C a2c_04_td0] frames 150384 | episodes 12651 | avg return(50)  -27.20 | entropy 1.954
+[A2C a2c_04_td0] frames 158288 | episodes 13257 | avg return(50)  -28.45 | entropy 2.262
+[A2C a2c_04_td0] frames 166192 | episodes 13879 | avg return(50)  -28.43 | entropy 2.137
+[A2C a2c_04_td0] EVAL unseen: -27.70 | coverage 0.657 | famine 1.00
+[A2C a2c_05_gae_095] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.633
+[A2C a2c_05_gae_095] frames   8112 | episodes   735 | avg return(50)  -29.38 | entropy 2.577
+[A2C a2c_05_gae_095] frames  16016 | episodes  1435 | avg return(50)  -29.66 | entropy 2.462
+[A2C a2c_05_gae_095] frames  23920 | episodes  2111 | avg return(50)  -28.81 | entropy 2.461
+[A2C a2c_05_gae_095] frames  31824 | episodes  2747 | avg return(50)  -27.88 | entropy 2.486
+[A2C a2c_05_gae_095] frames  39728 | episodes  3349 | avg return(50)  -27.38 | entropy 2.225
+[A2C a2c_05_gae_095] frames  47632 | episodes  3882 | avg return(50)  -24.65 | entropy 2.097
+[A2C a2c_05_gae_095] frames  55536 | episodes  4371 | avg return(50)  -26.29 | entropy 1.935
+[A2C a2c_05_gae_095] frames  63440 | episodes  4803 | avg return(50)  -22.82 | entropy 1.844
+[A2C a2c_05_gae_095] frames  71344 | episodes  5213 | avg return(50)  -22.02 | entropy 1.784
+[A2C a2c_05_gae_095] frames  79248 | episodes  5607 | avg return(50)  -22.33 | entropy 1.688
+[A2C a2c_05_gae_095] frames  87152 | episodes  5983 | avg return(50)  -20.68 | entropy 1.707
+[A2C a2c_05_gae_095] frames  95056 | episodes  6360 | avg return(50)  -21.78 | entropy 1.682
+[A2C a2c_05_gae_095] frames 102960 | episodes  6714 | avg return(50)  -19.41 | entropy 1.717
+[A2C a2c_05_gae_095] frames 110864 | episodes  7075 | avg return(50)  -18.84 | entropy 1.732
+[A2C a2c_05_gae_095] frames 118768 | episodes  7427 | avg return(50)  -15.32 | entropy 1.738
+[A2C a2c_05_gae_095] frames 126672 | episodes  7771 | avg return(50)  -15.73 | entropy 1.621
+[A2C a2c_05_gae_095] frames 134576 | episodes  8120 | avg return(50)  -15.54 | entropy 1.442
+[A2C a2c_05_gae_095] frames 142480 | episodes  8466 | avg return(50)  -16.94 | entropy 1.551
+[A2C a2c_05_gae_095] frames 150384 | episodes  8804 | avg return(50)  -13.33 | entropy 1.493
+[A2C a2c_05_gae_095] frames 158288 | episodes  9143 | avg return(50)  -13.60 | entropy 1.428
+[A2C a2c_05_gae_095] frames 166192 | episodes  9468 | avg return(50)  -11.35 | entropy 1.320
+[A2C a2c_05_gae_095] EVAL unseen: -11.60 | coverage 0.867 | famine 0.35
+[A2C a2c_06_no_entropy] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.634
+[A2C a2c_06_no_entropy] frames   8112 | episodes   741 | avg return(50)  -29.28 | entropy 2.517
+[A2C a2c_06_no_entropy] frames  16016 | episodes  1448 | avg return(50)  -28.81 | entropy 2.434
+[A2C a2c_06_no_entropy] frames  23920 | episodes  2117 | avg return(50)  -28.68 | entropy 2.353
+[A2C a2c_06_no_entropy] frames  31824 | episodes  2724 | avg return(50)  -27.11 | entropy 2.097
+[A2C a2c_06_no_entropy] frames  39728 | episodes  3287 | avg return(50)  -26.14 | entropy 2.022
+[A2C a2c_06_no_entropy] frames  47632 | episodes  3797 | avg return(50)  -24.70 | entropy 1.845
+[A2C a2c_06_no_entropy] frames  55536 | episodes  4275 | avg return(50)  -24.75 | entropy 1.780
+[A2C a2c_06_no_entropy] frames  63440 | episodes  4741 | avg return(50)  -25.10 | entropy 1.667
+[A2C a2c_06_no_entropy] frames  71344 | episodes  5195 | avg return(50)  -24.69 | entropy 1.705
+[A2C a2c_06_no_entropy] frames  79248 | episodes  5588 | avg return(50)  -22.73 | entropy 1.676
+[A2C a2c_06_no_entropy] frames  87152 | episodes  5999 | avg return(50)  -22.73 | entropy 1.622
+[A2C a2c_06_no_entropy] frames  95056 | episodes  6364 | avg return(50)  -22.39 | entropy 1.476
+[A2C a2c_06_no_entropy] frames 102960 | episodes  6744 | avg return(50)  -20.32 | entropy 1.401
+[A2C a2c_06_no_entropy] frames 110864 | episodes  7118 | avg return(50)  -19.83 | entropy 1.454
+[A2C a2c_06_no_entropy] frames 118768 | episodes  7484 | avg return(50)  -18.95 | entropy 1.350
+[A2C a2c_06_no_entropy] frames 126672 | episodes  7863 | avg return(50)  -19.31 | entropy 1.449
+[A2C a2c_06_no_entropy] frames 134576 | episodes  8212 | avg return(50)  -18.21 | entropy 1.355
+[A2C a2c_06_no_entropy] frames 142480 | episodes  8568 | avg return(50)  -17.55 | entropy 1.375
+[A2C a2c_06_no_entropy] frames 150384 | episodes  8931 | avg return(50)  -15.83 | entropy 1.434
+[A2C a2c_06_no_entropy] frames 158288 | episodes  9271 | avg return(50)  -15.17 | entropy 1.243
+[A2C a2c_06_no_entropy] frames 166192 | episodes  9633 | avg return(50)  -20.11 | entropy 1.123
+[A2C a2c_06_no_entropy] EVAL unseen: -16.57 | coverage 0.829 | famine 0.70
+[A2C a2c_07_entropy_005] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.634
+[A2C a2c_07_entropy_005] frames   8112 | episodes   744 | avg return(50)  -29.53 | entropy 2.603
+[A2C a2c_07_entropy_005] frames  16016 | episodes  1440 | avg return(50)  -29.73 | entropy 2.601
+[A2C a2c_07_entropy_005] frames  23920 | episodes  2118 | avg return(50)  -29.07 | entropy 2.569
+[A2C a2c_07_entropy_005] frames  31824 | episodes  2784 | avg return(50)  -28.19 | entropy 2.529
+[A2C a2c_07_entropy_005] frames  39728 | episodes  3369 | avg return(50)  -26.76 | entropy 2.455
+[A2C a2c_07_entropy_005] frames  47632 | episodes  3944 | avg return(50)  -28.33 | entropy 2.449
+[A2C a2c_07_entropy_005] frames  55536 | episodes  4483 | avg return(50)  -26.06 | entropy 2.445
+[A2C a2c_07_entropy_005] frames  63440 | episodes  4978 | avg return(50)  -25.37 | entropy 2.308
+[A2C a2c_07_entropy_005] frames  71344 | episodes  5464 | avg return(50)  -24.95 | entropy 2.287
+[A2C a2c_07_entropy_005] frames  79248 | episodes  5918 | avg return(50)  -24.40 | entropy 2.259
+[A2C a2c_07_entropy_005] frames  87152 | episodes  6372 | avg return(50)  -24.60 | entropy 2.253
+[A2C a2c_07_entropy_005] frames  95056 | episodes  6806 | avg return(50)  -21.85 | entropy 2.250
+[A2C a2c_07_entropy_005] frames 102960 | episodes  7236 | avg return(50)  -24.28 | entropy 2.234
+[A2C a2c_07_entropy_005] frames 110864 | episodes  7650 | avg return(50)  -23.61 | entropy 2.248
+[A2C a2c_07_entropy_005] frames 118768 | episodes  8075 | avg return(50)  -23.33 | entropy 2.227
+[A2C a2c_07_entropy_005] frames 126672 | episodes  8488 | avg return(50)  -23.27 | entropy 2.210
+[A2C a2c_07_entropy_005] frames 134576 | episodes  8901 | avg return(50)  -20.85 | entropy 2.184
+[A2C a2c_07_entropy_005] frames 142480 | episodes  9304 | avg return(50)  -21.99 | entropy 2.122
+[A2C a2c_07_entropy_005] frames 150384 | episodes  9709 | avg return(50)  -21.77 | entropy 2.171
+[A2C a2c_07_entropy_005] frames 158288 | episodes 10124 | avg return(50)  -22.39 | entropy 2.166
+[A2C a2c_07_entropy_005] frames 166192 | episodes 10523 | avg return(50)  -20.80 | entropy 2.118
+[A2C a2c_07_entropy_005] EVAL unseen: -9.25 | coverage 0.874 | famine 0.23
+[A2C a2c_08_critic_coef_1] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.634
+[A2C a2c_08_critic_coef_1] frames   8112 | episodes   742 | avg return(50)  -29.08 | entropy 2.549
+[A2C a2c_08_critic_coef_1] frames  16016 | episodes  1433 | avg return(50)  -29.10 | entropy 2.446
+[A2C a2c_08_critic_coef_1] frames  23920 | episodes  2108 | avg return(50)  -28.28 | entropy 2.447
+[A2C a2c_08_critic_coef_1] frames  31824 | episodes  2734 | avg return(50)  -27.02 | entropy 2.377
+[A2C a2c_08_critic_coef_1] frames  39728 | episodes  3325 | avg return(50)  -27.28 | entropy 2.279
+[A2C a2c_08_critic_coef_1] frames  47632 | episodes  3844 | avg return(50)  -25.46 | entropy 2.125
+[A2C a2c_08_critic_coef_1] frames  55536 | episodes  4322 | avg return(50)  -24.26 | entropy 1.975
+[A2C a2c_08_critic_coef_1] frames  63440 | episodes  4755 | avg return(50)  -23.03 | entropy 1.966
+[A2C a2c_08_critic_coef_1] frames  71344 | episodes  5155 | avg return(50)  -21.78 | entropy 1.830
+[A2C a2c_08_critic_coef_1] frames  79248 | episodes  5521 | avg return(50)  -20.50 | entropy 1.787
+[A2C a2c_08_critic_coef_1] frames  87152 | episodes  5898 | avg return(50)  -21.05 | entropy 1.686
+[A2C a2c_08_critic_coef_1] frames  95056 | episodes  6259 | avg return(50)  -18.32 | entropy 1.703
+[A2C a2c_08_critic_coef_1] frames 102960 | episodes  6608 | avg return(50)  -17.02 | entropy 1.717
+[A2C a2c_08_critic_coef_1] frames 110864 | episodes  6970 | avg return(50)  -17.37 | entropy 1.631
+[A2C a2c_08_critic_coef_1] frames 118768 | episodes  7324 | avg return(50)  -15.24 | entropy 1.560
+[A2C a2c_08_critic_coef_1] frames 126672 | episodes  7684 | avg return(50)  -18.38 | entropy 1.641
+[A2C a2c_08_critic_coef_1] frames 134576 | episodes  8027 | avg return(50)  -16.62 | entropy 1.563
+[A2C a2c_08_critic_coef_1] frames 142480 | episodes  8381 | avg return(50)  -16.48 | entropy 1.553
+[A2C a2c_08_critic_coef_1] frames 150384 | episodes  8730 | avg return(50)  -14.40 | entropy 1.505
+[A2C a2c_08_critic_coef_1] frames 158288 | episodes  9093 | avg return(50)  -16.97 | entropy 1.485
+[A2C a2c_08_critic_coef_1] frames 166192 | episodes  9443 | avg return(50)  -15.18 | entropy 1.390
+[A2C a2c_08_critic_coef_1] EVAL unseen: -13.06 | coverage 0.836 | famine 0.44
+[A2C a2c_09_rollout_52] frames     52 | episodes     3 | avg return(50)  -29.92 | entropy 2.633
+[A2C a2c_09_rollout_52] frames   8008 | episodes   739 | avg return(50)  -29.17 | entropy 2.541
+[A2C a2c_09_rollout_52] frames  15964 | episodes  1404 | avg return(50)  -28.80 | entropy 2.291
+[A2C a2c_09_rollout_52] frames  23920 | episodes  1963 | avg return(50)  -25.60 | entropy 2.187
+[A2C a2c_09_rollout_52] frames  31876 | episodes  2478 | avg return(50)  -24.71 | entropy 2.011
+[A2C a2c_09_rollout_52] frames  39832 | episodes  2923 | avg return(50)  -22.29 | entropy 1.765
+[A2C a2c_09_rollout_52] frames  47788 | episodes  3316 | avg return(50)  -19.91 | entropy 1.739
+[A2C a2c_09_rollout_52] frames  55744 | episodes  3703 | avg return(50)  -21.41 | entropy 1.648
+[A2C a2c_09_rollout_52] frames  63700 | episodes  4072 | avg return(50)  -18.94 | entropy 1.629
+[A2C a2c_09_rollout_52] frames  71656 | episodes  4454 | avg return(50)  -20.27 | entropy 1.534
+[A2C a2c_09_rollout_52] frames  79612 | episodes  4793 | avg return(50)  -16.13 | entropy 1.369
+[A2C a2c_09_rollout_52] frames  87568 | episodes  5149 | avg return(50)  -16.81 | entropy 1.434
+[A2C a2c_09_rollout_52] frames  95524 | episodes  5501 | avg return(50)  -14.34 | entropy 1.114
+[A2C a2c_09_rollout_52] frames 103480 | episodes  5848 | avg return(50)  -15.15 | entropy 1.394
+[A2C a2c_09_rollout_52] frames 111436 | episodes  6204 | avg return(50)  -13.88 | entropy 1.140
+[A2C a2c_09_rollout_52] frames 119392 | episodes  6556 | avg return(50)  -15.64 | entropy 1.433
+[A2C a2c_09_rollout_52] frames 127348 | episodes  6897 | avg return(50)  -11.49 | entropy 1.396
+[A2C a2c_09_rollout_52] frames 135304 | episodes  7226 | avg return(50)  -13.13 | entropy 1.255
+[A2C a2c_09_rollout_52] frames 143260 | episodes  7566 | avg return(50)  -15.80 | entropy 1.233
+[A2C a2c_09_rollout_52] frames 151216 | episodes  7900 | avg return(50)  -16.15 | entropy 1.076
+[A2C a2c_09_rollout_52] frames 159172 | episodes  8258 | avg return(50)  -11.91 | entropy 1.096
+[A2C a2c_09_rollout_52] EVAL unseen: -11.86 | coverage 0.844 | famine 0.34
+[A2C a2c_10_rollout_520] frames    520 | episodes    45 | avg return(50)  -29.50 | entropy 2.633
+[A2C a2c_10_rollout_520] frames   8320 | episodes   766 | avg return(50)  -30.23 | entropy 2.583
+[A2C a2c_10_rollout_520] frames  16120 | episodes  1472 | avg return(50)  -29.82 | entropy 2.590
+[A2C a2c_10_rollout_520] frames  23920 | episodes  2187 | avg return(50)  -29.42 | entropy 2.564
+[A2C a2c_10_rollout_520] frames  31720 | episodes  2876 | avg return(50)  -28.91 | entropy 2.476
+[A2C a2c_10_rollout_520] frames  39520 | episodes  3548 | avg return(50)  -28.76 | entropy 2.485
+[A2C a2c_10_rollout_520] frames  47320 | episodes  4202 | avg return(50)  -27.78 | entropy 2.429
+[A2C a2c_10_rollout_520] frames  55120 | episodes  4829 | avg return(50)  -28.24 | entropy 2.419
+[A2C a2c_10_rollout_520] frames  62920 | episodes  5415 | avg return(50)  -26.96 | entropy 2.339
+[A2C a2c_10_rollout_520] frames  70720 | episodes  5959 | avg return(50)  -25.23 | entropy 2.231
+[A2C a2c_10_rollout_520] frames  78520 | episodes  6491 | avg return(50)  -24.38 | entropy 2.150
+[A2C a2c_10_rollout_520] frames  86320 | episodes  6983 | avg return(50)  -23.42 | entropy 2.089
+[A2C a2c_10_rollout_520] frames  94120 | episodes  7429 | avg return(50)  -23.48 | entropy 2.027
+[A2C a2c_10_rollout_520] frames 101920 | episodes  7864 | avg return(50)  -23.55 | entropy 1.926
+[A2C a2c_10_rollout_520] frames 109720 | episodes  8270 | avg return(50)  -22.42 | entropy 1.925
+[A2C a2c_10_rollout_520] frames 117520 | episodes  8646 | avg return(50)  -21.40 | entropy 1.878
+[A2C a2c_10_rollout_520] frames 125320 | episodes  9030 | avg return(50)  -19.09 | entropy 1.848
+[A2C a2c_10_rollout_520] frames 133120 | episodes  9408 | avg return(50)  -19.26 | entropy 1.820
+[A2C a2c_10_rollout_520] frames 140920 | episodes  9783 | avg return(50)  -18.78 | entropy 1.800
+[A2C a2c_10_rollout_520] frames 148720 | episodes 10140 | avg return(50)  -18.72 | entropy 1.783
+[A2C a2c_10_rollout_520] frames 156520 | episodes 10489 | avg return(50)  -16.48 | entropy 1.712
+[A2C a2c_10_rollout_520] frames 164320 | episodes 10843 | avg return(50)  -20.19 | entropy 1.644
+[A2C a2c_10_rollout_520] EVAL unseen: -12.62 | coverage 0.837 | famine 0.43
+[A2C a2c_11_norm_adv] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.636
+[A2C a2c_11_norm_adv] frames   8112 | episodes   716 | avg return(50)  -29.26 | entropy 2.527
+[A2C a2c_11_norm_adv] frames  16016 | episodes  1423 | avg return(50)  -29.30 | entropy 2.358
+[A2C a2c_11_norm_adv] frames  23920 | episodes  2078 | avg return(50)  -27.45 | entropy 2.247
+[A2C a2c_11_norm_adv] frames  31824 | episodes  2658 | avg return(50)  -27.22 | entropy 2.157
+[A2C a2c_11_norm_adv] frames  39728 | episodes  3169 | avg return(50)  -24.61 | entropy 1.943
+[A2C a2c_11_norm_adv] frames  47632 | episodes  3641 | avg return(50)  -24.47 | entropy 1.872
+[A2C a2c_11_norm_adv] frames  55536 | episodes  4076 | avg return(50)  -24.61 | entropy 1.854
+[A2C a2c_11_norm_adv] frames  63440 | episodes  4485 | avg return(50)  -22.94 | entropy 1.650
+[A2C a2c_11_norm_adv] frames  71344 | episodes  4865 | avg return(50)  -21.08 | entropy 1.543
+[A2C a2c_11_norm_adv] frames  79248 | episodes  5241 | avg return(50)  -20.75 | entropy 1.488
+[A2C a2c_11_norm_adv] frames  87152 | episodes  5619 | avg return(50)  -20.68 | entropy 1.299
+[A2C a2c_11_norm_adv] frames  95056 | episodes  5995 | avg return(50)  -21.51 | entropy 1.394
+[A2C a2c_11_norm_adv] frames 102960 | episodes  6363 | avg return(50)  -21.16 | entropy 1.348
+[A2C a2c_11_norm_adv] frames 110864 | episodes  6724 | avg return(50)  -18.56 | entropy 1.428
+[A2C a2c_11_norm_adv] frames 118768 | episodes  7086 | avg return(50)  -19.34 | entropy 1.332
+[A2C a2c_11_norm_adv] frames 126672 | episodes  7436 | avg return(50)  -18.49 | entropy 1.240
+[A2C a2c_11_norm_adv] frames 134576 | episodes  7789 | avg return(50)  -18.38 | entropy 1.361
+[A2C a2c_11_norm_adv] frames 142480 | episodes  8152 | avg return(50)  -18.27 | entropy 1.338
+[A2C a2c_11_norm_adv] frames 150384 | episodes  8499 | avg return(50)  -18.68 | entropy 1.317
+[A2C a2c_11_norm_adv] frames 158288 | episodes  8856 | avg return(50)  -16.37 | entropy 1.258
+[A2C a2c_11_norm_adv] frames 166192 | episodes  9202 | avg return(50)  -13.36 | entropy 1.266
+[A2C a2c_11_norm_adv] EVAL unseen: -15.49 | coverage 0.821 | famine 0.64
+[A2C a2c_12_gamma_090] frames    208 | episodes    19 | avg return(50)  -30.29 | entropy 2.633
+[A2C a2c_12_gamma_090] frames   8112 | episodes   733 | avg return(50)  -29.39 | entropy 2.481
+[A2C a2c_12_gamma_090] frames  16016 | episodes  1427 | avg return(50)  -29.17 | entropy 2.485
+[A2C a2c_12_gamma_090] frames  23920 | episodes  2088 | avg return(50)  -28.92 | entropy 2.494
+[A2C a2c_12_gamma_090] frames  31824 | episodes  2696 | avg return(50)  -27.97 | entropy 2.381
+[A2C a2c_12_gamma_090] frames  39728 | episodes  3240 | avg return(50)  -27.33 | entropy 2.228
+[A2C a2c_12_gamma_090] frames  47632 | episodes  3730 | avg return(50)  -27.55 | entropy 2.093
+[A2C a2c_12_gamma_090] frames  55536 | episodes  4165 | avg return(50)  -25.66 | entropy 2.038
+[A2C a2c_12_gamma_090] frames  63440 | episodes  4577 | avg return(50)  -26.82 | entropy 1.886
+[A2C a2c_12_gamma_090] frames  71344 | episodes  4961 | avg return(50)  -24.71 | entropy 1.934
+[A2C a2c_12_gamma_090] frames  79248 | episodes  5334 | avg return(50)  -23.07 | entropy 1.926
+[A2C a2c_12_gamma_090] frames  87152 | episodes  5713 | avg return(50)  -23.99 | entropy 1.861
+[A2C a2c_12_gamma_090] frames  95056 | episodes  6073 | avg return(50)  -21.95 | entropy 1.826
+[A2C a2c_12_gamma_090] frames 102960 | episodes  6419 | avg return(50)  -21.87 | entropy 1.756
+[A2C a2c_12_gamma_090] frames 110864 | episodes  6762 | avg return(50)  -18.67 | entropy 1.683
+[A2C a2c_12_gamma_090] frames 118768 | episodes  7105 | avg return(50)  -19.24 | entropy 1.642
+[A2C a2c_12_gamma_090] frames 126672 | episodes  7439 | avg return(50)  -18.96 | entropy 1.672
+[A2C a2c_12_gamma_090] frames 134576 | episodes  7776 | avg return(50)  -16.49 | entropy 1.570
+[A2C a2c_12_gamma_090] frames 142480 | episodes  8110 | avg return(50)  -17.88 | entropy 1.680
+[A2C a2c_12_gamma_090] frames 150384 | episodes  8433 | avg return(50)  -14.52 | entropy 1.595
+[A2C a2c_12_gamma_090] frames 158288 | episodes  8756 | avg return(50)  -15.94 | entropy 1.538
+[A2C a2c_12_gamma_090] frames 166192 | episodes  9081 | avg return(50)  -16.64 | entropy 1.537
+[A2C a2c_12_gamma_090] EVAL unseen: -15.11 | coverage 0.795 | famine 0.61

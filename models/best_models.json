@@ -1,0 +1,59 @@
+{
+  "dqn": {
+    "run": "dqn_02_lr_low",
+    "path": "models/dqn/dqn_dqn_02_lr_low.pt",
+    "eval_reward": -5.50007630905347,
+    "seed_rewards": [
+      -5.50007630905347,
+      -8.603344138038656,
+      -7.454522392925937
+    ],
+    "seed_mean": -7.1859809466726885,
+    "seed_std": 1.2810552124116137,
+    "seed_hard_mean": -21.824004877942354,
+    "seed_famine_mean": 0.23666666666666666
+  },
+  "reinforce": {
+    "run": "rf_10_entropy_005",
+    "path": "models/pg/reinforce_rf_10_entropy_005.pt",
+    "eval_reward": -12.637732879039666,
+    "seed_rewards": [
+      -12.637732879039666,
+      -12.729900323877064,
+      -13.162527556787387
+    ],
+    "seed_mean": -12.843386919901372,
+    "seed_std": 0.22878194721316616,
+    "seed_hard_mean": -25.308539426710695,
+    "seed_famine_mean": 0.36000000000000004
+  },
+  "ppo": {
+    "run": "ppo_07_entropy_005",
+    "path": "models/pg/ppo_ppo_07_entropy_005.pt",
+    "eval_reward": -5.727757379590844,
+    "seed_rewards": [
+      -5.727757379590844,
+      -4.698631575611472,
+      -5.986648846396129
+    ],
+    "seed_mean": -5.4710126005328155,
+    "seed_std": 0.556288614324169,
+    "seed_hard_mean": -19.441610593047766,
+    "seed_famine_mean": 0.08
+  },
+  "a2c": {
+    "run": "a2c_07_entropy_005",
+    "path": "models/pg/a2c_a2c_07_entropy_005.pt",
+    "eval_reward": -9.251576203565412,
+    "seed_rewards": [
+      -9.251576203565412,
+      -9.591667938354112,
+      -10.567165224920206
+    ],
+    "seed_mean": -9.803469788946577,
+    "seed_std": 0.557577280869723,
+    "seed_hard_mean": -22.76472517084551,
+    "seed_famine_mean": 0.27
+  },
+  "overall": "ppo"
+}
