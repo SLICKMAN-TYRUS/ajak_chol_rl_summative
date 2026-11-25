@@ -1,6 +1,6 @@
 # Food-Aid Pre-positioning in Jonglei, South Sudan: DQN vs REINFORCE vs PPO vs A2C
 
-**Student:** Ajak Bul Zacharia Chol · ALU · Machine Learning Techniques II, RL Summative
+**Student:** Ajak Bul Zachariah Chol · ALU · Machine Learning Techniques II, RL Summative
 
 An RL agent plays the role of a humanitarian logistics coordinator at the Bor hub (Jonglei State).
 Over a 26-week lean season it decides, each week, whether to **send a truck convoy**, **order an
